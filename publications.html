@@ -5,7 +5,7 @@ subtitle: This is where I will tell my friends way too much about me
 
 <div class="publist">
   <ul>
-    {% for post in paginator.posts %}
+    {% for post in posts %}
       {% if post.work-type == 'Paper' %}
         <li>
           <a href="{% if post.ref-doi %}http://dx.doi.org/{{ post.ref-doi }}
