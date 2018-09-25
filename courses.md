@@ -26,11 +26,19 @@ title: Coursework
 ## National Tecnhical University of Athens
 * Pattern Recognition with Emphasis on Speech Recognition 
 * Neural Networks and Intelligent Systems 
-* Optimization Techniques 
+* Software Engineering 
+* Optimization Techniques and Control Applications 
 * Graph Theory 
 * Knowledge Systems and Technologies 
+* Computer Vision 
+* Speech and Natural Language Processing 
+* Image and Video Analysis and Technology 
+* Operating Systems 
+* Databases 
 * Artificial Intelligence 
 * Algorithms and Complexity 
+* Digital Signal Processing 
+* Mathematical Logic for Computer Science 
 * Programming Languages I
 
 ## Massive Online Open Courses
