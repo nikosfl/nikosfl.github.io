@@ -28,6 +28,7 @@ navbar-links:
   Projects:
     - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
   Travelling: "travel"
+  Contact: "contact"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
