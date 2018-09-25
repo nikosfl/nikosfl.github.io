@@ -25,7 +25,6 @@ description: Hi
 navbar-links:
   Home: "index"
   Publications: "publications"
-  Resume: "cv"
   Projects:
     - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
   Coursework: "courses"
