@@ -2,7 +2,12 @@
 title: Publications
 ---
 
-* 
-* Flemotomos, N., Papadopoulos, P., Gibson, J., & Narayanan, S. (2018). Combined Speaker Clustering and Role Recognition in Conversational Speech. Proc. Interspeech 2018, 1378-1382.
-* Flemotomos, N., Martinez, V., Gibson, J., Atkins, D., Creed, T., & Narayanan, S. (2018). Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions. Proc. Interspeech 2018, 1908-1912.
-* Singla, K., Chen, Z., Flemotomos, N., Gibson, J., Can, D., Atkins, D., & Narayanan, S. (2018). Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy. Proc. Interspeech 2018, 3413-3417. 
+## Conference Proceedings
+
+* __N. Flemotomos__, Z. Chen, D.C. Atkins, and S. Narayanan, "Role Annotated Speech Recognition for Conversational Interactions"., *IEEE Workshop on Spoken Language Technology (SLT)*, Athens, Greece, 2018. (accepted)
+
+* __Flemotomos, N.__, Papadopoulos, P., Gibson, J., & Narayanan, S. (2018). "Combined Speaker Clustering and Role Recognition in Conversational Speech". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
+
+* __Flemotomos, N.__, Martinez, V., Gibson, J., Atkins, D., Creed, T., & Narayanan, S. (2018). "Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
+
+* Singla, K., Chen, Z., __Flemotomos, N.__, Gibson, J., Can, D., Atkins, D., & Narayanan, S. (2018). "Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
