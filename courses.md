@@ -19,9 +19,9 @@ title: Coursework
 
 ### Computer Science
 * CSCI 599: Deep Learning and its Applications (Fall 2017)  
-[Syllabus](/assets/syl_ee599), [Final Project] 
+[[Syllabus](/assets/syl_ee599)], [Final Project] 
 * CSCI 599: Machine Learning Theory (Spring 2018)  
-[Syllabus](http://www.iliasdiakonikolas.org/teaching/Spring18/CSCI599.html), [Final Project]
+[[Syllabus](http://www.iliasdiakonikolas.org/teaching/Spring18/CSCI599.html)], [Final Project]
 
 ## National Tecnhical University of Athens
 
