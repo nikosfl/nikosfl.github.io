@@ -7,7 +7,7 @@ title: Coursework
 * EE 503: Probability for Electrical and Computer Engineers (Fall 2016)  
 [[Syllabus](/assets/syl_ee503.pdf)]
 * EE 562: Random Processes in Engineering (Fall 2016)  
-[Syllabus] 
+[Syllabus(/assets/syl_ee562.docx)] 
 * EE 517: Statistics for Engineers (Spring 2017)  
 [[Syllabus](/assets/syl_ee517.pdf)], [Final Project] 
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
