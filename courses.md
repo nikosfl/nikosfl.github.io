@@ -9,7 +9,7 @@ title: Coursework
 * EE 562: Random Processes in Engineering (Fall 2016)  
 [[Syllabus](/assets/syl_ee562.pdf)] 
 * EE 517: Statistics for Engineers (Spring 2017)  
-[[Syllabus](/assets/syl_ee517.pdf)], [Final Project] 
+[[Syllabus](/assets/syl_ee517.pdf)], [[Final Project](/assets/proj_nf_ee517.pdf)] 
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
 [[Syllabus](/assets/syl_ee559.pdf)], [[Final Project](/assets/proj_nf_ee559.pdf)]
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
