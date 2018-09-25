@@ -14,4 +14,4 @@ title: Publications
 
 ## Diploma Thesis (in Greek)
 
-* __Flemotomos, N.__, "Robust Acoustic Features for Distant Speech Recognition".
+* __Flemotomos, N.__, "Robust Acoustic Features for Distant Speech Recognition", 2016.
