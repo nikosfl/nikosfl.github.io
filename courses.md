@@ -5,7 +5,7 @@ title: Coursework
 ## University of Southern California
 ### Electrical Engineering
 * EE 503: Probability for Electrical and Computer Engineers
-[Syllabus](/assets/syl_ee503)
+[[Syllabus](/assets/syl_ee503)]
 * EE 562: Random Processes in Engineering
 [Syllabus] 
 * EE 517: Statistics for Engineers
