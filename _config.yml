@@ -23,6 +23,7 @@ description: Hi
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   Publications: "publications"
   Resume: "cv"
   Projects:
