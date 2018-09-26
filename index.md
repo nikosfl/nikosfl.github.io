@@ -14,4 +14,5 @@ You can find my CV [here](/assets/NF_cv2.pdf) and my one-page resume [here](asse
 
 Over the last few years, I 've had the chance to collaborate with some amazing people working on cool projects, on which you can find some information in my [Research](research) page.
 
-I like to spend my free time either hiking a trail or biking my road bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go discover a new city, country, or continent. If you want some inspiration you can check out my [Traveling](travel) page.
+I like to spend my free time either hiking a trail or biking my road bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go discover a new city, country, or continent. 
+<!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
