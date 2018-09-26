@@ -24,9 +24,10 @@ description: Hi
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Research: "research"
   Publications: "publications"
-  Projects:
-    - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
+  #Projects:
+  #  - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
   Coursework: "courses"
   Traveling: "travel"
   Contact: "contact"
