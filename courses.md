@@ -24,13 +24,18 @@ title: Coursework
 [[Syllabus](/assets/syl_ee599.pdf)], [[Final Project](https://nikosfl.github.io/sc-scd/)] 
 
 ## National Tecnhical University of Athens
+*I had to complete 61 classes before taking my Diploma; here I am only listing a subset of those I took after my 6th semester (when I had to choose my flows of specialization) which are relevant to Signal Processing, Machine Learning, or Software Development.* 
 * Pattern Recognition with Emphasis on Speech Recognition 
 * Neural Networks and Intelligent Systems 
 * Software Engineering 
+{% * Physiological Systems Modeling, Simulation, and Control
 * Optimization Techniques and Control Applications 
-* Graph Theory 
+* Graph Theory %}
 * Knowledge Systems and Technologies 
 * Computer Vision 
+* Applied Mathematics - Calculus of Variations
+* Biomedical Technology Laboratory
+* Electromagnetic Compatibility
 * Speech and Natural Language Processing 
 * Image and Video Analysis and Technology 
 * Operating Systems 
@@ -40,6 +45,9 @@ title: Coursework
 * Digital Signal Processing 
 * Mathematical Logic for Computer Science 
 * Programming Languages I
+* Control Systems Design
+* Digital Signal Processing
+
 
 ## Massive Online Open Courses
 * Artificial Intelligence 
