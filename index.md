@@ -10,7 +10,7 @@ I am a 3rd year PhD student, member of the [Signal Analysis and Interpretation L
 I was born and raised in Athens, the capital city of Greece. My official given name is Nikolaos, one the most common names in Greece, but according to recent surveys [citation needed], no Greek ever called another Greek "Nikolaos".
 
 # What I am doing (and have done)
-You can find my CV [here](/assets/NF_cv.pdf) and my one-page resume [here](assets/NF_resume.pdf).  
+You can find my CV [here](/assets/NF_cv2.pdf) and my one-page resume [here](assets/NF_resume.pdf).  
 
 Over the last few years, I 've had the chance to collaborate with some amazing people working on cool projects, on which you can find some information in my [Research](research) page.
 
