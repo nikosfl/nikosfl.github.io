@@ -43,12 +43,15 @@ title: Coursework
 <!-- * Mathematical Logic for Computer Science * Control Systems Design -->
 
 ## Massive Online Open Courses
+*offered by Coursera*
 * Bioinformatics Algorithms - Part I (Feb 2014)
 * Neuroethics (Nov 2013)
 * Neural Networks for Machine Learning (Nov 2012)
 * Computing for Data Analysis (Oct 2012)
+*offered by Udacity*
 * Artificial Intelligence for Robotics (Apr 2012)
 * Introduction to Computer Science (Apr 2012)
 * Machine Learning (Dec 2011)
+*offered by Stanford University*
 * Introduction to Artificial Intelligence (Dec 2011) 
 * Introduction to Databases (Dec 2011) 
