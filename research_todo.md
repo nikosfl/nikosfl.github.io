@@ -4,7 +4,7 @@ title: Research Projects
 
 ## Speaker Role Recognition
 
-## Behavioral Signal Processing and Applications in Psychotherapy
+## Automating Behavioral Coding in Psychotherapy
 
 ## Siamese Convolutional Networks for Speaker Change Detection
 
