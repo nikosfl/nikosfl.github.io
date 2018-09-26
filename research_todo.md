@@ -13,4 +13,4 @@ Psychotherapy intervention studies collect audio and/or videotapes of therapy se
 
 ### Acoustic Features for Robust Speech Recognition
 
-### Movie Summarization
+### Identifying Saliency for Movie Summarization
