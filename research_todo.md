@@ -9,7 +9,7 @@ Psychotherapy intervention studies collect audio and/or videotapes of therapy se
 
 ### Siamese CNNs for Speaker Change Detection
 
-### Automatic Sleep Staging Using Hidden Markov Models
+### Automatic Sleep Staging Using HMMs
 
 ### Acoustic Features for Robust Speech Recognition
 
