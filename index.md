@@ -5,9 +5,13 @@ subtitle: PhD student in Electrical Engineering
 ---
 
 # Who I am
-I am a 3rd year PhD student, member of the Signal Analysis and Interpretation Laboratory at the University of Southern California, advised by Professor Shrikanth Narayanan. My main research interests include Speaker Diarization and Role Recognition, Speech Processing and Machine Learning. Prior to joining USC, I did my undergrad at the National Technical University of Athens, where I completed my Diploma thesis under the advisement of Professor Petros Maragos.
+I am a 3rd year PhD student, member of the [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu) at the University of Southern California, advised by Professor [Shrikanth Narayanan](https://sail.usc.edu/people/shri.php). My main research interests include Speaker Diarization and Role Recognition, Speech Processing, and Machine Learning. Prior to joining USC, I received my Diploma in Electrical and Computer Engineering at the National Technical University of Athens, where I completed my thesis under the advisement of Professor [Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm).
 
 I was born and raised in Athens, the capital city of Greece. My official given name is Nikolaos, one the most common names in Greece, but according to recent surveys [citation needed], no Greek ever called another Greek "Nikolaos".
 
-# What I am doing
-You can find my CV [here](/assets/NF_cv.pdf) and my one-page resume [here].
+# What I am doing (and have done)
+You can find my CV [here](/assets/NF_cv.pdf) and my one-page resume [here].  
+
+Over the last few years, I 've had the chance to collaborate with some amazing people working on cool projects, on which you can find some information [here](research).
+
+I like to spend my free time either hiking a trail or biking my road bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go discover a new city, country, or continent. 
