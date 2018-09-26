@@ -28,18 +28,18 @@ title: Coursework
 * Pattern Recognition with Emphasis on Speech Recognition 
 * Neural Networks and Intelligent Systems 
 * Software Engineering 
----
-# * Physiological Systems Modeling, Simulation, and Control
-# * Optimization Techniques and Control Applications 
-# * Graph Theory
----
+<!--
+* Physiological Systems Modeling, Simulation, and Control
+* Optimization Techniques and Control Applications 
+* Graph Theory
+-->
 * Knowledge Systems and Technologies 
 * Computer Vision 
----
-# * Applied Mathematics - Calculus of Variations
-# * Biomedical Technology Laboratory
-# * Electromagnetic Compatibility 
----
+<!--
+* Applied Mathematics - Calculus of Variations
+* Biomedical Technology Laboratory
+* Electromagnetic Compatibility 
+-->
 * Speech and Natural Language Processing 
 * Image and Video Analysis and Technology 
 * Operating Systems 
@@ -48,10 +48,10 @@ title: Coursework
 * Algorithms and Complexity 
 * Digital Signal Processing 
 * Programming Languages I
----
-# * Mathematical Logic for Computer Science
-# * Control Systems Design
----
+<!--
+* Mathematical Logic for Computer Science
+* Control Systems Design
+-->
 * Digital Signal Processing
 
 ## Massive Online Open Courses
