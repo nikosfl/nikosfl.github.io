@@ -2,14 +2,14 @@
 title: Research Projects
 ---
 
-## Speaker Role Recognition
+### Speaker Role Recognition
 
-## Automating Behavioral Coding in Psychotherapy
+### Automating Behavioral Coding in Psychotherapy
 
-## Siamese Convolutional Networks for Speaker Change Detection
+### Siamese Convolutional Networks for Speaker Change Detection
 
-## Automatic Sleep Staging Using Hidden Markov Models
+### Automatic Sleep Staging Using Hidden Markov Models
 
-## Acoustic Features for Robust Speech Recognition
+### Acoustic Features for Robust Speech Recognition
 
-## Movie Summarization
+### Movie Summarization
