@@ -2,6 +2,7 @@
 layout: page
 title: Hello, world!
 subtitle: I 'm Nikos. Welcome to my universe.
+use-website-title: true
 ---
 
 ## Who I am
