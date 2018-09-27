@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Coursework
+use-website-title: true
 ---
 
 ## University of Southern California
