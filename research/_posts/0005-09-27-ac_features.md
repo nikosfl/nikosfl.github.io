@@ -2,7 +2,7 @@
 layout: post
 title: Acoustic Features for Robust Speech Recognition
 subtitle: no, they are not MFCCs
-use-website-title: true
+use-site-title: true
 permalink: ac_features
 ---
 
