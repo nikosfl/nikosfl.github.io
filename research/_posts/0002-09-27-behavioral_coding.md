@@ -2,7 +2,7 @@
 layout: post
 title: Automating Behavioral Coding in Psychotherapy
 subtitle: bring the machines in the game
-use-website-title: true
+use-site-title: true
 permalink: behavioral_coding
 ---
 
