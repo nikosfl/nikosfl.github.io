@@ -5,7 +5,6 @@ subtitle: bring the machines in the game
 use-website-title: true
 permalink: behavioral_coding
 ---
-<!-- last updated 2018-09-27 -->
 
 Psychotherapy quality assessment is typically addressed by human raters who evaluate recorded sessions along specific behavioral codes, as defined by standard coding manuals. The recordings capture the complex series of interactions between the therapist and the client, and as such, they encode the active ingredients of the therapy. However, the time and cost barriers introduced by such a procedure lead to poor feasibility in real-world settings.
 
@@ -22,3 +21,5 @@ A robust system for the task described depends heavily on a speech pipeline whic
 <!-- provide link with the kaldi pipeline -->
 
 After the rich transcription of the dialogue between the therapist and the client, natural language processing methods can be applied towards the final behavioral coding. Our paper "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](http://dx.doi.org/10.21437/Interspeech.2018-1518)" describes the first effort found in the literature for automated CBT evaluation, purely based on linguistic features. In the paper "[Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy](http://dx.doi.org/10.21437/Interspeech.2018-2551)" we introduce a multimodal system applied on MI data.
+
+<!-- last updated 2018-09-27 -->
