@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-use-website-title: true
+use-site-title: true
 ---
 
 ## Conference Proceedings
