@@ -3,7 +3,13 @@ title: Research
 ---
 
 ### Speaker Role Recognition
-Speaker Role Recognition is the task of assigning a specific role in a speaker-homogeneous segment, where a role is characterized by the task a speaker performs. Broadcast news programs, call centers, therapy sessions, or interviews are some examples of conversational scenarios where each participant performs some well-defined task and thus plays some role. The approaches that tackle this task depend on successful pre-processing steps applied on the conversation, such as speaker diarization or ASR. However, in real-world settings, this leads to error propagation. Additionally, knowledge of the roles can be proved useful for those pre-processing steps, as well. For example, the language used by an interviewer is expected to be different than the one used by the interviewee, and this is something which can be ideally exploited by a role-aware ASR system by using role-specific language models. 
+Speaker role recognition is the task of assigning a specific role in a speaker-homogeneous segment, where a role is characterized by the task a speaker performs. Broadcast news programs, call centers, therapy sessions, or interviews are some examples of conversational scenarios where each participant performs some well-defined task and thus plays some role. 
+
+The approaches that tackle this task depend on successful pre-processing steps applied on the conversation, such as speaker diarization or ASR. However, in real-world settings, this leads to error propagation. Additionally, knowledge of the roles can be proved useful for those pre-processing steps, as well. For example, the language used by an interviewer is expected to be different than the one used by the interviewee, and this is something which can be ideally exploited by a role-aware ASR system by using role-specific language models. 
+
+What I am trying to do in this research thread is to combine speaker role recognition with other speech processing modules in order both to improve the performance of the role recognition itself and to provide useful information to the module it is combined with. In the paper "Role Annotated Speech Recognition for Conversational Interactions" we are extending ASR to include 
+
+
 
 ### Automating Behavioral Coding in Psychotherapy
 Psychotherapy intervention studies collect audio and/or videotapes of therapy sessions to use in treatment adherence and process research. These tapes record the complex series of interactions between therapist and client, and as such, they encode the active ingredients of the therapy – when the therapy works, the tapes should tell us why.
