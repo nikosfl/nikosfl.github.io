@@ -25,9 +25,9 @@ A robust system for the task described depends heavily on a speech pipeline whic
 * detects the voiced regions (voice activity detection), 
 * segments such regions into speaker-homogeneous segments (speaker change detection), 
 * groups the resulted segments into same-speaker clusters (speaker clustering), 
-* assigns each cluster either to the therapist or the client, 
+* assigns each cluster either to the therapist or the client (speaker role recognition), 
 * and converts the speech to text (automatic speech recognition)   
-
+<!-- provide link with the kaldi pipeline -->
 
 ### Siamese CNNs for Speaker Change Detection
 *a fancy way to compare similarities*  
