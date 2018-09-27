@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Saliency for Movie Summarization
 subtitle: some movies are too boring to watch them from beginning to end, right?
-use-website-title: true
+use-site-title: true
 permalink: movie_summarization
 ---
 
