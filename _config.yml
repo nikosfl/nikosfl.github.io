@@ -13,6 +13,9 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+# show the posts not in the index page, but in 'research'
+paginate_path: "/research_threads/page:num/"
+
 # Name of website
 title: Nikos Flemotomos
 
