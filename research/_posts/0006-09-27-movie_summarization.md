@@ -13,12 +13,17 @@ My involvement in the particular field is due to a project that I undertook as p
 
 Here is a 30% summary of the short film [The Most Beautiful Thing](https://www.youtube.com/watch?v=IP8psM4LWXk)
 
-<video width="320" height="240" controls>
+<video width="320" height="360" controls>
   <source src="/work/classes/projects/tmbt_var_3.mp4" type="video/mp4">
   Your browser does not support embedded video.
 </video>
 
-and here is a 50% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
+and here is a 30% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
+
+<video width="320" height="240" controls>
+  <source src="/work/classes/projects/los_var_3.mp4" type="video/mp4">
+  Your browser does not support embedded video.
+</video>
 
 If you are interested in the specific methodology, the theoretical background, and the comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
 
