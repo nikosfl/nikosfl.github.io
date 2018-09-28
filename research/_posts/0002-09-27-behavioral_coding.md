@@ -15,7 +15,7 @@ The question that naturally comes to mind - or, at least, to an engineer's mind 
 A robust system for the task described depends heavily on a speech pipeline which, given the raw audio signal, 
 * extracts the appropriate acoustic features, 
 * detects the voiced regions (voice activity detection), 
-* segments such regions into speaker-homogeneous segments (speaker change detection), 
+* segments such regions into speaker-homogeneous segments ([speaker change detection](https://nikosfl.github.io/research/speaker_change_detection)), 
 * groups the resulted segments into same-speaker clusters (speaker clustering), 
 * assigns each cluster either to the therapist or the client ([speaker role recognition](https://nikosfl.github.io/research/srr)), 
 * and converts the speech to text (automatic speech recognition).   
