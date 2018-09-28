@@ -13,12 +13,10 @@ My involvement in the particular field is due to a project that I undertook as p
 
 Here is a 30% summary of the short film [The Most Beautiful Thing](https://www.youtube.com/watch?v=IP8psM4LWXk) using the algorithm I implemented
 
-<object align="center">
-<video width="640" height="360" controls>
+<video width="480" height="270" controls>
   <source src="/work/classes/projects/tmbt_var_3.mp4" type="video/mp4">
   Your browser does not support embedded video.
 </video>
-</object>
 
 and here is a 30% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
 
