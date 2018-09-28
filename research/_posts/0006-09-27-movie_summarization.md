@@ -15,6 +15,6 @@ Here is a 30% summary of the short film [The Most Beautiful Thing](https://www.y
 
 and here is a 50% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
 
-If you are interested in the specific methodology, the theoretical background, and the qualitative comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
+If you are interested in the specific methodology, the theoretical background, and the comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
 
 <!-- last updated: 2018-09-27 -->
