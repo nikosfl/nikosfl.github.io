@@ -3,7 +3,7 @@ layout: page
 title: Hello, world!
 subtitle: I 'm Nikos. Welcome to my universe.
 use-site-title: true
-bigimg: /img/sri_lanka.jpg
+<!--bigimg: /img/sri_lanka.jpg-->
 ---
 
 ## Who I am
