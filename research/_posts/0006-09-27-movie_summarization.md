@@ -3,7 +3,7 @@ layout: post
 title: Identifying Saliency for Movie Summarization
 subtitle: let's create some trailers!
 use-site-title: true
-permalink: movie_summarization
+permalink: research/movie_summarization
 involved: 2014
 ---
 
