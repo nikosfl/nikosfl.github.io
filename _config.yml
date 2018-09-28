@@ -19,6 +19,9 @@ paginate_path: "/research_threads/page:num/"
 # Name of website
 title: Nikos Flemotomos
 
+# e-mail
+contact_email: flemotom@usc.edu
+
 # Short description of your site
 description: Welcome to my universe.
 
