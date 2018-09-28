@@ -27,7 +27,7 @@ description: Welcome to my universe.
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Research: "research"
+  Research & Projects: "research"
   Publications: "publications"
   #Projects:
   #  - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
