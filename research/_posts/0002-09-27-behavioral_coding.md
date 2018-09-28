@@ -4,6 +4,7 @@ title: Automating Behavioral Coding in Psychotherapy
 subtitle: bring the machines in the game
 use-site-title: true
 permalink: research/behavioral_coding
+involved: 2017-present
 ---
 
 Psychotherapy quality assessment is typically addressed by human raters who evaluate recorded sessions along specific behavioral codes, as defined by standard coding manuals. The recordings capture the complex series of interactions between the therapist and the client, and as such, they encode the active ingredients of the therapy. However, the time and cost barriers introduced by such a procedure lead to poor feasibility in real-world settings.
