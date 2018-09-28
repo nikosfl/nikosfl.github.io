@@ -22,12 +22,12 @@ Here is a 30% summary of the short film [The Most Beautiful Thing](https://www.y
 
 and here is a 30% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
 
-<video width="480" height="270" controls>
+<video width="480" height="270" controls class="img-center">
   <source src="/work/classes/projects/los_var_3.mp4" type="video/mp4">
   Your browser does not support embedded video.
 </video>
 
-Note that the system implemented exploits only the video stream of information (no audio or text).
+Note that the system implemented exploits only the visual stream of information, so you probably want to mute the videos to really understand the segments that the algorithm identified as salient.
 
 If you are interested in the specific methodology, the theoretical background, and the comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
 
