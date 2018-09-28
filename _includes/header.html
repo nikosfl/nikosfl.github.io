@@ -64,6 +64,11 @@
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %} -->
+		  {% if include.type == "post" %}
+		    {% if page.involved %}
+		      <spane classe="post-meta">Actively involved in {{ page.involved }}</span>
+		    {% endif %}
+		  {% endif %}
         </div>
       </div>
     </div>
