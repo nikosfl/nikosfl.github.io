@@ -26,7 +26,7 @@ use-site-title: true
 [[Syllabus](/work/classes/syllabus/syl_ee599.pdf)], [[Final Project](https://nikosfl.github.io/sc-scd/)] 
 
 ## National Tecnhical University of Athens
-*I had to complete 61 classes before taking my Diploma; here I am only listing a subset of those I took after my 6th semester (when I had to choose my flows of specialization) and are relevant to Signal Processing, Artificial Intelligence, or Software Development.* 
+*I had to complete 61 classes before obtaining my Diploma; here I am only listing a subset of those I took after my 6th semester (when I had to choose my flows of specialization) and are relevant to Signal Processing, Artificial Intelligence, or Software Development.* 
 * Pattern Recognition with Emphasis on Speech Recognition 
 * Speech and Natural Language Processing 
 * Computer Vision 
