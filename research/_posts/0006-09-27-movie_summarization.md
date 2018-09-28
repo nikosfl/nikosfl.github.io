@@ -18,8 +18,6 @@ Here is a 30% summary of the short film [The Most Beautiful Thing](https://www.y
   Your browser does not support embedded video.
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bT-7ZpMofL8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 and here is a 50% summary of the short film [Losses](https://www.youtube.com/watch?v=BMhXexbDmv8).
 
 If you are interested in the specific methodology, the theoretical background, and the comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
