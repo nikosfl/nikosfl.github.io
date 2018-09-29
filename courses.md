@@ -145,8 +145,8 @@ function showOrHide(id)
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
-<a href="javascript:showOrHide('syl_ee562');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf.pdf)
-<div style="display:none" id="syl_ee562">
+<a href="javascript:showOrHide('syl_csci599b');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf.pdf)
+<div style="display:none" id="syl_csci599b">
 <ol style="margin-left: 3%;">
     <li>Introduction to Machine Learning Theory; Supervised Learning</li>
     <li>Online Learning; Winnow Algorithm</li>
@@ -162,8 +162,8 @@ function showOrHide(id)
 </ol>
 </div>
 * CSCI 599: Deep Learning and its Applications (Fall 2017)  
- <a href="javascript:showOrHide('syl_ee562');">Outline</a>, [Final Project](https://nikosfl.github.io/sc-scd/)
-<div style="display:none" id="syl_ee562">
+ <a href="javascript:showOrHide('syl_csci599');">Outline</a>, [Final Project](https://nikosfl.github.io/sc-scd/)
+<div style="display:none" id="syl_csci599">
 <ol style="margin-left: 3%;">
     <li>c</li>
 </ol>
