@@ -38,8 +38,8 @@ function showOrHide(id)
   <li>Linear Inverse Problems II: Recovery of ne-scale Data from coarse-scale Measurements: Applications in Deblurring, Fluorescence Microscopy, Wireless Communications, Medical Imaging and Computer Vision</li>
   <li>Modern Theory of Linear Inverse Problems; Iterative Algorithms and Non-Convex Optimization; Phase Retrieval and Computational Imaging</li>
   <li>Discrete and Submodular Optimization and Learning</li>
-  <li>Learning Representations, Sparse Coding, Word Embeddings</li>
-  <li>Kernel Methods, “Shallow" and “Deep" Learning</li>
+  <li>Learning Representations; Sparse Coding; Word Embeddings</li>
+  <li>Kernel Methods; “Shallow" and “Deep" Learning</li>
 </ol>
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
@@ -48,7 +48,7 @@ function showOrHide(id)
 <ol style="margin-left: 3%;">
     <li>Introduction to Machine Learning</li>
     <li>Key Issues and Concepts in Machine Learning</li>
-    <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships.</li>
+    <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships</li>
     <li>Review of Convexity and Optimization</li>
     <li>Logistic Regression</li>
     <li>Feasibility of Learning: Deterministic and Statistical Views; Hoeffding Inequality; Inductive Bias</li>
