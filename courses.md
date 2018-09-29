@@ -24,7 +24,7 @@ function showOrHide(id)
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 <a href="javascript:showOrHide('syl_ee546');">Outline</a>  
 <div style="display:none" id="syl_ee546">
-<ol style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
   <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
   <li>Optimization for Modern Data Analysis II: Sub-Gradients and Non-Smooth Optimization, Incremental and Stochastic Schemes</li>
