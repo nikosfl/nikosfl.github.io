@@ -44,7 +44,27 @@ function showOrHide()
 </ul>
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
-[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
+<!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
+<a href="javascript:showOrHide();">Outline</a>  
+<div style="display:none" id="showorhide">
+<ul style="margin-left: 3%;">
+  <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
+  <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
+  <li>Optimization for Modern Data Analysis II: Sub-Gradients and Non-Smooth Optimization, Incremental and Stochastic Schemes</li>
+  <li>Basics of Concentration of Measure and High Dimensional Probability.</li>
+  <li>Non-Asymptotic Random Matrix Theory and Matrix Concentration.</li>
+  <li>Dimension Reduction, Sketching, and Applications.</li>
+  <li>Fast and Randomized Methods for Numerical Linear Algebra.</li>
+  <li>Clustering I: Matrix Perturbation Theory.</li>
+  <li>Clustering II: Spectral Algorithms, Application in Community Detection.</li>
+  <li>Linear Inverse Problems I: Compressive Sensing and Sparsity, Recommender Systems, Matrix Completion and Low-Rank Modeling</li>
+  <li>Linear Inverse Problems II: Recovery of ne-scale Data from coarse-scale Measurements: Applications in Deblurring, Fluorescence Microscopy, Wireless Communications, Medical Imaging and Computer Vision.</li>
+  <li>Modern Theory of Linear Inverse Problems; Iterative Algorithms and Non-Convex Optimization; Phase Retrieval and Computational Imaging.</li>
+  <li>Discrete and Submodular Optimization and Learning</li>
+  <li>Learning Representations, Sparse Coding, Word Embeddings</li>
+  <li>Kernel Methods, “Shallow" and “Deep" Learning.</li>
+</ul>
+</div>
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
 [[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)]
 * EE 517: Statistics for Engineers (Spring 2017)  
