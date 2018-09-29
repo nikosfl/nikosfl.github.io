@@ -5,9 +5,9 @@ use-site-title: true
 ---
 
 <script type="text/javascript">
-function showOrHide() 
+function showOrHide(id) 
 {
-    var div = document.getElementById("showorhide");
+    var div = document.getElementById(id);
     if (div.style.display == "block") 
     {
         div.style.display = "none";
@@ -23,8 +23,8 @@ function showOrHide()
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 <!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
-<a href="javascript:showOrHide();">Outline</a>  
-<div style="display:none" id="showorhide">
+<a href="javascript:showOrHide("syl_ee546");">Outline</a>  
+<div style="display:none" id="syl_ee546">
 <ul style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
   <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
