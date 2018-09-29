@@ -25,7 +25,7 @@ function showOrHide()
 [[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]  
 <a href="javascript:showOrHide();">Syllabus</a>  
 <div style="display:none" markdown="1" id="showorhide">
-    * We did some stuff
+We did some stuff
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
 [[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
