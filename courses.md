@@ -88,7 +88,7 @@ function showOrHide(id)
 <div style="display:none" id="syl_ee517">
 <ol style="margin-left: 3%;">
     <li>Overview of Statistics; Probability Review</li>
-    <li>Sampling Sistributions</li>
+    <li>Sampling Distributions</li>
     <li>More Sampling Distributions; Point Estimation</li>
     <li>Confidence Intervals</li>
     <li>Hypothesis Testing</li>
@@ -103,9 +103,45 @@ function showOrHide(id)
 </ol>
 </div>
 * EE 503: Probability for Electrical and Computer Engineers (Fall 2016)  
-[[Syllabus](/work/classes/syllabus/syl_ee503.pdf)]
+<a href="javascript:showOrHide('syl_ee503');">Outline</a>
+<div style="display:none" id="syl_ee503">
+<ol style="margin-left: 3%;">
+    <li>Logic and Sets; Sigma Algebras; Probability Axioms</li>
+    <li>Independence; Total Probability; Bayes Theorem</li>
+    <li>Combinatorics; Binomial Theorem; Limits of Sequences</li>
+    <li>Poisson Theorem; Negative Binomial; Formal Reasoning.</li>
+    <li>Random Variables; Densities and Cumulative Distributions</li>
+    <li>Expectations and Moments of Random Variables</li>
+    <li>Covariance; Correlation; Uncertainty Principles</li>
+    <li>Stochastic Convergence; Laws of Large Numbers</li>
+    <li>Conditional Expectations; Maximum Likelihood Estimation</li>
+    <li>Transformed Densities; Random Sampling; Entropy</li>
+    <li>Central Limit Theorem and Applications; Confidence Intervals</li>
+    <li>Financial Engineering; Introduction to Martingales and Markov Chains</li>
+    <li>Markov Chains: Estimation</li>
+    <li>Markov Chains and Queues: Advanced Applications</li>
+</ol>
+</div>
 * EE 562: Random Processes in Engineering (Fall 2016)  
-[[Syllabus](/work/classes/syllabus/syl_ee562.pdf)]  
+<a href="javascript:showOrHide('syl_ee562');">Outline</a>
+<div style="display:none" id="syl_ee562">
+<ol style="margin-left: 3%;">
+    <li>Definition of Random Processes: Random Variables, Random Vectors, Random Sequences, Random Waveforms, etc.</li>
+    <li>Second Order Statistics: Properties of Correlation Functions</li>
+    <li>Covariance Matrix Factorization; Eigenvalues - Eigenvectors; Causal Factoring and Whitening Concepts</li>
+    <li>Gaussian Processes</li>
+    <li>Simple Hypothesis Tests</li>
+    <li>Linear Minimum-Mean-Square-Error Estimation; Orthogonality Principle</li>
+    <li>Linear Operations on Random Processes; Convergence Concepts: Convolution, Integration, Differentiation.</li>
+    <li>Frequency Domain Analysis: Time Invariant Linear Operations</li>
+    <li>Energy Spectra; Power Spectra; White Noise Approximations</li>
+    <li>Linear Transformations of Wide-Sense Stationary Random Processes; Spectral Factorization; Applications</li>
+    <li>Poisson Distributed Events in Time; Campbell’s Theorem</li>
+    <li>Karhuenen-Loeve Expansions on Finite Intervals</li>
+    <li>Narrowband Process Representations</li>
+    <li>Time Averages; Ergodicity</li>
+</ol>
+</div>
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
@@ -152,4 +188,6 @@ function showOrHide(id)
 <!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
 <!-- [[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)] -->
 <!-- [[Syllabus](/work/classes/syllabus/syl_ee517.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee517.pdf)] -->
+<!-- [[Syllabus](/work/classes/syllabus/syl_ee503.pdf)] -->
+<!-- [[Syllabus](/work/classes/syllabus/syl_ee562.pdf)] -->
 
