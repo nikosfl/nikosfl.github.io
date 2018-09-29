@@ -28,7 +28,6 @@ function showOrHide()
 &nbsp;&nbsp;<ol>
   <li>Coffee</li>
   <li>Tea</li>
-  <li>Milk</li>
 </ol>
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
