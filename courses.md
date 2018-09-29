@@ -68,11 +68,11 @@ function showOrHide(id)
 <div style="display:none" id="syl_ee559">
 <ol class="listing-grey" style="margin-left: 4%;">
     <li>Basic Concepts in Pattern Recognition; A Paradigm in Pattern Recognition</li>
-    <li>Distribution-Free Classification I: Classifier Design</li>
-    <li>Distribution-Free Classification II: Training and Optimization for Supervised Learning</li>
+    <li>Distribution-Free Classification I: Classifier Design; Discriminant Functions</li>
+    <li>Distribution-Free Classification II: Training and Optimization for Supervised Learning; Perceptron; Support Vector Machines</li>
     <li>Statistical Classification I: Statistics are Known - Bayes Decision Theory</li>
-    <li>Statistical Classification II: Statistics are Partially Known - Parameter Estimation</li>
-    <li>Statistical Classification III: Statistics are Unknown - Non-Parametric Techniques</li>
+    <li>Statistical Classification II: Statistics are Partially Known - Parameter Estimation: Maximum Likelihood, Maximum A Posteriori, Bayesian Estimation</li>
+    <li>Statistical Classification III: Statistics are Unknown - Non-Parametric Techniques: Histogram, Parzen Windows, k-Nearest Neighbors</li>
     <li>Statistical Classification IV: Supervised Learning</li>
     <li>Validation and Cross-Validation; Feature Selection and Reduction</li>
     <li>Artificial Neural Networks</li>
