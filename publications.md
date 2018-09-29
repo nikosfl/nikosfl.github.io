@@ -11,7 +11,7 @@ use-site-title: true
 * __N. Flemotomos__, P. Papadopoulos, J. Gibson, & S. Narayanan. "[Combined Speaker Clustering and Role Recognition in Conversational Speech](http://dx.doi.org/10.21437/Interspeech.2018-1654)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
 [[Oral](/work/presentations/2018_IS_SpeakerClustering_pres.pdf)]
 
-* __N. Flemotomos__, V. Martinez, J. Gibson, D. Atkins, T. Creed, & S. Narayanan. "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](http://dx.doi.org/10.21437/Interspeech.2018-1518)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
+* __N. Flemotomos__, V. Martinez, J. Gibson, D.C. Atkins, T. Creed, & S. Narayanan. "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](http://dx.doi.org/10.21437/Interspeech.2018-1518)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
 [[Oral](/work/presentations/2018_IS_CBT_lang_features_pres.pdf)]
 
 * K. Singla, Z. Chen, __N. Flemotomos__, J. Gibson, D. Can, D.C. Atkins, & S. Narayanan. "[Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy](http://dx.doi.org/10.21437/Interspeech.2018-2551)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
