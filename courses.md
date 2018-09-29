@@ -34,7 +34,7 @@ function showOrHide()
 * EE 562: Random Processes in Engineering (Fall 2016)  
 [[Syllabus](/work/classes/syllabus/syl_ee562.pdf)]  
 
-<a href="javascript:showOrHide();"><p sdf ></p></a> 
+<a href="javascript:showOrHide();">sdf</a> 
 
 <div id="showorhide">
 sdsdfsdf
