@@ -24,7 +24,7 @@ function showOrHide()
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 [[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]  
 <a href="javascript:showOrHide();">Syllabus</a>  
-<div style="display:none" id="showorhide">
+<div style="display:none" markdown="1" id="showorhide">
     * We did some stuff
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
