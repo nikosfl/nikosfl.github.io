@@ -24,7 +24,6 @@ function showOrHide(id)
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 <a href="javascript:showOrHide('syl_ee546');">Outline</a>  
 <div style="display:none" id="syl_ee546">
-<p class="post-meta">
 <ol style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
   <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
@@ -42,7 +41,6 @@ function showOrHide(id)
   <li>Learning Representations, Sparse Coding, Word Embeddings</li>
   <li>Kernel Methods, “Shallow" and “Deep" Learning.</li>
 </ol>
-</p>
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
 <a href="javascript:showOrHide('syl_ee660');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee660.pdf)
