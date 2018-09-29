@@ -36,7 +36,7 @@ function showOrHide()
 
 <a href="javascript:showOrHide();">sdf</a> 
 
-<div id="showorhide">
+<div style="display:none" id="showorhide">
 sdsdfsdf
 </div>
 
