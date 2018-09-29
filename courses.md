@@ -50,7 +50,7 @@ function showOrHide(id)
 <ul style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
 </ul>
-</div>
+</div>, [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
 [[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)]
 * EE 517: Statistics for Engineers (Spring 2017)  
