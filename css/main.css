@@ -17,6 +17,9 @@ body {
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 p {
   line-height: 1.5;
