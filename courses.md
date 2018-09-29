@@ -42,13 +42,13 @@ function showOrHide(id)
   <li>Kernel Methods, “Shallow" and “Deep" Learning.</li>
 </ol>
 </div>
-* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)
-<a href="javascript:showOrHide('syl_ee660');">Outline</a>
+* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017). 
+<a href="javascript:showOrHide('syl_ee660');">Outline</a>, [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
 <div style="display:none" id="syl_ee660">
 <ul style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
 </ul>
-</div>, [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
+</div>
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
 [[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)]
 * EE 517: Statistics for Engineers (Spring 2017)  
