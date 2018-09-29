@@ -19,5 +19,5 @@ use-site-title: true
 
 ## Diploma Thesis (in Greek)
 
-* __N. Flemotomos__. "[Robust Acoustic Features for Distant Speech Recognition](http://dspace.lib.ntua.gr/handle/123456789/42749?locale-attribute=en)". 2016.
+* __N. Flemotomos__. "[Robust Acoustic Features for Distant Speech Recognition](http://dspace.lib.ntua.gr/handle/123456789/42749?locale-attribute=en)", 2016.
 [[Slides (in Greek)](/work/presentations/2016_NTUA_thesis_pres.pdf)]
