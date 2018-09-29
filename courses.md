@@ -25,7 +25,7 @@ function showOrHide()
 [[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]  
 <a href="javascript:showOrHide();">Syllabus</a>  
 <div style="display:none" id="showorhide">
-&nbsp;&nbsp;<ol>
+<ol style="margin-left: 1%;">
   <li>Coffee</li>
   <li>Tea</li>
 </ol>
