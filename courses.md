@@ -165,7 +165,21 @@ function showOrHide(id)
  <a href="javascript:showOrHide('syl_csci599');">Outline</a>, [Final Project](https://nikosfl.github.io/sc-scd/)
 <div style="display:none" id="syl_csci599">
 <ol style="margin-left: 3%;">
-    <li>c</li>
+    <li>Machine Learning Review</li>
+    <li>Loss Functions and Optimization; Feed Forward Neural Networks</li>
+    <li>Convolutional Neural Networks (CNNs)</li>
+    <li>Training Neural Networks</li>
+    <li>CNN Architectures</li>
+    <li>Deep Learning Software</li>
+    <li>Recurrent Neural Networks</li>
+    <li>Generative Adversarial Networks (GANs)</li>
+    <li>Variational Autoencoders</li>
+    <li>PixelRNN; PixelCNN</li>
+    <li>Deep Reinforcement Learning</li>
+    <li>InfoGAN; CycleGAN</li>
+    <li>Attention Networks; Relational Networks; Memory Networks</li>
+    <li>AlphaGo; AlphaGo Zero</li>
+    <li>Imitation Learning</li>
 </ol>
 </div>
 
