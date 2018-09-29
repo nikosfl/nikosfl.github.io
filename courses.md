@@ -22,10 +22,9 @@ function showOrHide(id)
 ## University of Southern California
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
-<!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
 <a href="javascript:showOrHide('syl_ee546');">Outline</a>  
 <div style="display:none" id="syl_ee546">
-<ul style="margin-left: 3%;">
+<ol style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
   <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
   <li>Optimization for Modern Data Analysis II: Sub-Gradients and Non-Smooth Optimization, Incremental and Stochastic Schemes</li>
@@ -41,11 +40,10 @@ function showOrHide(id)
   <li>Discrete and Submodular Optimization and Learning</li>
   <li>Learning Representations, Sparse Coding, Word Embeddings</li>
   <li>Kernel Methods, “Shallow" and “Deep" Learning.</li>
-</ul>
+</ol>
 </div>
-* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
-<!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
-<a href="javascript:showOrHide('syl_ee660');">Outline</a>  
+* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)
+<a href="javascript:showOrHide('syl_ee660');">Outline</a>
 <div style="display:none" id="syl_ee660">
 <ul style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
@@ -100,3 +98,6 @@ function showOrHide(id)
 * Machine Learning (Dec 2011)  
 * Introduction to Artificial Intelligence (Dec 2011) 
 * Introduction to Databases (Dec 2011) 
+
+<!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
+<!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
