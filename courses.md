@@ -45,7 +45,7 @@ function showOrHide(id)
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
 <a href="javascript:showOrHide('syl_ee660');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee660.pdf)
 <div style="display:none" id="syl_ee660">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Introduction to Machine Learning</li>
     <li>Key Issues and Concepts in Machine Learning</li>
     <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships</li>
@@ -66,7 +66,7 @@ function showOrHide(id)
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
 <a href="javascript:showOrHide('syl_ee559');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee559.pdf)
 <div style="display:none" id="syl_ee559">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Basic Concepts in Pattern Recognition; A Paradigm in Pattern Recognition</li>
     <li>Distribution-Free Classification I: Classifier Design</li>
     <li>Distribution-Free Classification II: Training and Optimization for Supervised Learning</li>
@@ -81,7 +81,7 @@ function showOrHide(id)
 * EE 517: Statistics for Engineers (Spring 2017)  
 <a href="javascript:showOrHide('syl_ee517');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee517.pdf)
 <div style="display:none" id="syl_ee517">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Overview of Statistics; Probability Review</li>
     <li>Sampling Distributions</li>
     <li>Point Estimation</li>
@@ -100,7 +100,7 @@ function showOrHide(id)
 * EE 503: Probability for Electrical and Computer Engineers (Fall 2016)  
 <a href="javascript:showOrHide('syl_ee503');">Outline</a>
 <div style="display:none" id="syl_ee503">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Logic and Sets; Sigma Algebras; Probability Axioms</li>
     <li>Independence; Total Probability; Bayes' Theorem</li>
     <li>Combinatorics; Binomial Theorem; Limits of Sequences</li>
@@ -120,7 +120,7 @@ function showOrHide(id)
 * EE 562: Random Processes in Engineering (Fall 2016)  
 <a href="javascript:showOrHide('syl_ee562');">Outline</a>
 <div style="display:none" id="syl_ee562">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Definition of Random Processes: Random Variables, Random Vectors, Random Sequences, Random Waveforms, etc.</li>
     <li>Second Order Statistics: Properties of Correlation Functions</li>
     <li>Covariance Matrix Factorization; Eigenvalues - Eigenvectors; Causal Factoring and Whitening Concepts</li>
@@ -142,7 +142,7 @@ function showOrHide(id)
 * CSCI 599: Machine Learning Theory (Spring 2018)  
 <a href="javascript:showOrHide('syl_csci599b');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf.pdf)
 <div style="display:none" id="syl_csci599b">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Introduction to Machine Learning Theory; Supervised Learning</li>
     <li>Online Learning; Winnow Algorithm</li>
     <li>Perceptron Algorithm; Generic Bounds for Online Learning</li>
@@ -159,7 +159,7 @@ function showOrHide(id)
 * CSCI 599: Deep Learning and its Applications (Fall 2017)  
  <a href="javascript:showOrHide('syl_csci599');">Outline</a>, [Final Project](https://nikosfl.github.io/sc-scd/)
 <div style="display:none" id="syl_csci599">
-<ol class="listing-grey" style="margin-left: 3%;">
+<ol class="listing-grey" style="margin-left: 4%;">
     <li>Machine Learning Review</li>
     <li>Loss Functions and Optimization; Feed Forward Neural Networks</li>
     <li>Convolutional Neural Networks (CNNs)</li>
