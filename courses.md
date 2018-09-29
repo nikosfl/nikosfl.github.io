@@ -4,6 +4,21 @@ title: Coursework
 use-site-title: true
 ---
 
+<script type="text/javascript">
+function showOrHide() 
+{
+    var div = document.getElementById("showorhide");
+    if (div.style.display == "block") 
+    {
+        div.style.display = "none";
+    }
+    else 
+    {
+        div.style.display = "block";
+    }
+}
+</script>
+
 ## University of Southern California
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
@@ -18,6 +33,12 @@ use-site-title: true
 [[Syllabus](/work/classes/syllabus/syl_ee503.pdf)]
 * EE 562: Random Processes in Engineering (Fall 2016)  
 [[Syllabus](/work/classes/syllabus/syl_ee562.pdf)]  
+
+<a href="javascript:showOrHide();"><p sdf ></p></a> 
+
+<div id="showorhide">
+sdsdfsdf
+</div>
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
