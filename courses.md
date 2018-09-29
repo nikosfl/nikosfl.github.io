@@ -70,16 +70,11 @@ function showOrHide(id)
 <div style="display:none" id="syl_ee559">
 <ol style="margin-left: 3%;">
     <li>Basic Concepts in Pattern Recognition; A Paradigm in Pattern Recognition</li>
-    <li>Key Issues and Concepts in Machine Learning</li>
-    <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships.</li>
-    <li>Review of Convexity and Optimization</li>
     <li>Distribution-Free Classification I: Classifier Design</li>
     <li>Distribution-Free Classification II: Training and Optimization for Supervised Learning</li>
-    <li>Complexity of Learning I: Generalization; Estimation of Error on New Data; Implications in Dataset Usage</li>
-    <li>Complexity of Learning II: Bias-Variance Decomposition; Learning Curves; Overfitting</li>
-    <li>Statistical Classification I: Statistics are Known: Bayes Decision Theory</li>
-    <li>Statistical Classification II: Statistics are Partially Known: Parameter Estimation</li>
-    <li>Statistical Classification III: Statistics are Unknown: Non-Parametric Techniques</li>
+    <li>Statistical Classification I: Statistics are Known - Bayes Decision Theory</li>
+    <li>Statistical Classification II: Statistics are Partially Known - Parameter Estimation</li>
+    <li>Statistical Classification III: Statistics are Unknown - Non-Parametric Techniques</li>
     <li>Statistical Classification IV: Supervised Learning</li>
     <li>Validation and Cross-Validation; Feature Selection and Reduction</li>
     <li>Artificial Neural Networks</li>
@@ -91,16 +86,16 @@ function showOrHide(id)
 <ol style="margin-left: 3%;">
     <li>Overview of Statistics; Probability Review</li>
     <li>Sampling Distributions</li>
-    <li>More Sampling Distributions; Point Estimation</li>
+    <li>Point Estimation</li>
     <li>Confidence Intervals</li>
     <li>Hypothesis Testing</li>
     <li>Tests for Probability Densities; Contingency Tables</li>
     <li>Sufficient Statistics; Cramer-Rao Bound; Ratio Hypothesis Tests</li>
-    <li>Sequential Tests; Linear Regression' Heteroscedasticity</li>
+    <li>Sequential Tests; Linear Regression; Heteroscedasticity</li>
     <li>Multiple Regression; Multicollinearity Diagnostics</li>
     <li>Model Building; Stepwise Regression; Statistical Process Control</li>
     <li>Other Regression Types; ANOVA</li>
-    <li>Runs; Experimental Design' Bayesian Statistics</li>
+    <li>Runs; Experimental Design; Bayesian Statistics</li>
     <li>Expectation-Maximization; Hierarchical Bayes and Gibbs Samplers; Non-Parametric/Robust Tools</li>
 </ol>
 </div>
@@ -109,9 +104,9 @@ function showOrHide(id)
 <div style="display:none" id="syl_ee503">
 <ol style="margin-left: 3%;">
     <li>Logic and Sets; Sigma Algebras; Probability Axioms</li>
-    <li>Independence; Total Probability; Bayes Theorem</li>
+    <li>Independence; Total Probability; Bayes' Theorem</li>
     <li>Combinatorics; Binomial Theorem; Limits of Sequences</li>
-    <li>Poisson Theorem; Negative Binomial; Formal Reasoning.</li>
+    <li>Poisson Theorem; Negative Binomial; Formal Reasoning</li>
     <li>Random Variables; Densities and Cumulative Distributions</li>
     <li>Expectations and Moments of Random Variables</li>
     <li>Covariance; Correlation; Uncertainty Principles</li>
@@ -134,12 +129,12 @@ function showOrHide(id)
     <li>Gaussian Processes</li>
     <li>Simple Hypothesis Tests</li>
     <li>Linear Minimum-Mean-Square-Error Estimation; Orthogonality Principle</li>
-    <li>Linear Operations on Random Processes; Convergence Concepts: Convolution, Integration, Differentiation.</li>
+    <li>Linear Operations on Random Processes; Convergence Concepts: Convolution, Integration, Differentiation</li>
     <li>Frequency Domain Analysis: Time Invariant Linear Operations</li>
     <li>Energy Spectra; Power Spectra; White Noise Approximations</li>
     <li>Linear Transformations of Wide-Sense Stationary Random Processes; Spectral Factorization; Applications</li>
     <li>Poisson Distributed Events in Time; Campbell’s Theorem</li>
-    <li>Karhuenen-Loeve Expansions on Finite Intervals</li>
+    <li>Karhuenen-Loeve Expansions of Finite Intervals</li>
     <li>Narrowband Process Representations</li>
     <li>Time Averages; Ergodicity</li>
 </ol>
