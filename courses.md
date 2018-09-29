@@ -144,11 +144,11 @@ function showOrHide(id)
 <div style="display:none" id="syl_csci599b">
 <ol class="listing-grey" style="margin-left: 4%;">
     <li>Introduction to Machine Learning Theory; Supervised Learning</li>
-    <li>Online Learning; Winnow Algorithm</li>
-    <li>Perceptron Algorithm; Generic Bounds for Online Learning</li>
-    <li>VC dimension; Weighted Majority</li>
-    <li>PAC Learning Model; Online to PAC Conversion</li>
-    <li>VC Dimension; Sample Complexity of PAC Learning</li>
+    <li>Online Learning: Winnow, Best Experts, Weighted Majority, Perceptron Algorithms</li>
+    <li>Generic Bounds for Online Learning</li>
+    <li>VC dimension and Sample Complexity</li>
+    <li>PAC Learning Model; Online to PAC Conversion; Occam's Razor</li>
+    <li>VC Dimension and Sample Complexity of PAC Learning</li>
     <li>Weak and Strong Learning</li>
     <li>Boosting</li>
     <li>PAC Learning with Noise: Random Classification Noise, Malicious Noise</li>
