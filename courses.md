@@ -22,7 +22,11 @@ function showOrHide()
 ## University of Southern California
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
-[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]
+[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]  
+<a href="javascript:showOrHide();">Syllabus</a>  
+<div style="display:none" id="showorhide">
+We did some stuff
+</div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
 [[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
@@ -33,12 +37,6 @@ function showOrHide()
 [[Syllabus](/work/classes/syllabus/syl_ee503.pdf)]
 * EE 562: Random Processes in Engineering (Fall 2016)  
 [[Syllabus](/work/classes/syllabus/syl_ee562.pdf)]  
-
-<a href="javascript:showOrHide();">sdf</a> 
-
-<div style="display:none" id="showorhide">
-sdsdfsdf
-</div>
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
@@ -80,6 +78,3 @@ sdsdfsdf
 * Machine Learning (Dec 2011)  
 * Introduction to Artificial Intelligence (Dec 2011) 
 * Introduction to Databases (Dec 2011) 
-
-
-document.getElementById("showorhide").style.display = "none";
