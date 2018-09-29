@@ -46,7 +46,21 @@ function showOrHide(id)
 <a href="javascript:showOrHide('syl_ee660');">Outline</a>, [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
 <div style="display:none" id="syl_ee660">
 <ul style="margin-left: 3%;">
-  <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
+    <li>Introduction to Machine Learning</li>
+    <li>Key Issues and Concepts in Machine Learning</li>
+    <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships.</li>
+    <li>Review of Convexity and Optimization</li>
+    <li>Logistic Regression</li>
+    <li>Feasibility of Learning: Deterministic and Statistical Views; Hoeffding Inequality; Inductive Bias</li>
+    <li>Complexity of Learning I: Generalization; Estimation of Error on New Data; Implications in Dataset Usage</li>
+    <li>Complexity of Learning II: Bias-Variance Decomposition; Learning Curves; Overfitting</li>
+    <li>Regularization; Feature Reduction; Sparsity</li>
+    <li>Model Selection and Validation</li>
+    <li>Boosting Techniques and Decision Trees</li>
+    <li>Kernel Methods</li>
+    <li>Semi-Supervised Learning for Classification</li>
+    <li>Unsupervised Learning for Clustering: Statistical Techniques</li>
+    <li>Unsupervised Learning for Clustering: Other Techniques</li>
 </ul>
 </div>
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
