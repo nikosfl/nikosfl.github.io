@@ -23,7 +23,7 @@ function showOrHide(id)
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 <!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
-<a href="javascript:showOrHide("syl_ee546");">Outline</a>  
+<a href="javascript:showOrHide('syl_ee546');">Outline</a>  
 <div style="display:none" id="syl_ee546">
 <ul style="margin-left: 3%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
