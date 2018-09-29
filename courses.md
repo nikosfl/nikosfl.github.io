@@ -42,10 +42,10 @@ function showOrHide(id)
   <li>Kernel Methods, “Shallow" and “Deep" Learning.</li>
 </ol>
 </div>
-* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017). 
-<a href="javascript:showOrHide('syl_ee660');">Outline</a>, [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]
+* EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
+<a href="javascript:showOrHide('syl_ee660');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee660.pdf)
 <div style="display:none" id="syl_ee660">
-<ul style="margin-left: 3%;">
+<ol style="margin-left: 3%;">
     <li>Introduction to Machine Learning</li>
     <li>Key Issues and Concepts in Machine Learning</li>
     <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships.</li>
@@ -61,12 +61,47 @@ function showOrHide(id)
     <li>Semi-Supervised Learning for Classification</li>
     <li>Unsupervised Learning for Clustering: Statistical Techniques</li>
     <li>Unsupervised Learning for Clustering: Other Techniques</li>
-</ul>
+</ol>
 </div>
 * EE 559: Mathematical Pattern Recognition (Spring 2017)  
-[[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)]
+<a href="javascript:showOrHide('syl_ee559');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee559.pdf)
+<div style="display:none" id="syl_ee559">
+<ol style="margin-left: 3%;">
+    <li>Basic Concepts in Pattern Recognition; A Paradigm in Pattern Recognition</li>
+    <li>Key Issues and Concepts in Machine Learning</li>
+    <li>Multidimensional Regression: Linear Regression, Maximum-Likelihood and MAP Estimation, Ridge Regression, Bayesian regression; Learning Linear and Non-Linear Relationships.</li>
+    <li>Review of Convexity and Optimization</li>
+    <li>Distribution-Free Classification I: Classifier Design</li>
+    <li>Distribution-Free Classification II: Training and Optimization for Supervised Learning</li>
+    <li>Complexity of Learning I: Generalization; Estimation of Error on New Data; Implications in Dataset Usage</li>
+    <li>Complexity of Learning II: Bias-Variance Decomposition; Learning Curves; Overfitting</li>
+    <li>Statistical Classification I: Statistics are Known: Bayes Decision Theory</li>
+    <li>Statistical Classification II: Statistics are Partially Known: Parameter Estimation</li>
+    <li>Statistical Classification III: Statistics are Unknown: Non-Parametric Techniques</li>
+    <li>Statistical Classification IV: Supervised Learning</li>
+    <li>Validation and Cross-Validation; Feature Selection and Reduction</li>
+    <li>Artificial Neural Networks</li>
+</ol>
+</div>
 * EE 517: Statistics for Engineers (Spring 2017)  
-[[Syllabus](/work/classes/syllabus/syl_ee517.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee517.pdf)] 
+<a href="javascript:showOrHide('syl_ee517');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee517.pdf)
+<div style="display:none" id="syl_ee517">
+<ol style="margin-left: 3%;">
+    <li>Overview of Statistics; Probability Review</li>
+    <li>Sampling Sistributions</li>
+    <li>More Sampling Distributions; Point Estimation</li>
+    <li>Confidence Intervals</li>
+    <li>Hypothesis Testing</li>
+    <li>Tests for Probability Densities; Contingency Tables</li>
+    <li>Sufficient Statistics; Cramer-Rao Bound; Ratio Hypothesis Tests</li>
+    <li>Sequential Tests; Linear Regression' Heteroscedasticity</li>
+    <li>Multiple Regression; Multicollinearity Diagnostics</li>
+    <li>Model Building; Stepwise Regression; Statistical Process Control</li>
+    <li>Other Regression Types; ANOVA</li>
+    <li>Runs; Experimental Design' Bayesian Statistics</li>
+    <li>Expectation-Maximization; Hierarchical Bayes and Gibbs Samplers; Non-Parametric/Robust Tools</li>
+</ol>
+</div>
 * EE 503: Probability for Electrical and Computer Engineers (Fall 2016)  
 [[Syllabus](/work/classes/syllabus/syl_ee503.pdf)]
 * EE 562: Random Processes in Engineering (Fall 2016)  
@@ -115,3 +150,6 @@ function showOrHide(id)
 
 <!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
 <!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
+<!-- [[Syllabus](/work/classes/syllabus/syl_ee559.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee559.pdf)] -->
+<!-- [[Syllabus](/work/classes/syllabus/syl_ee517.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee517.pdf)] -->
+
