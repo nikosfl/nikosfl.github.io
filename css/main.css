@@ -13,13 +13,13 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
 }
 p {
   line-height: 1.5;
