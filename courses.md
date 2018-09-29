@@ -80,3 +80,6 @@ sdsdfsdf
 * Machine Learning (Dec 2011)  
 * Introduction to Artificial Intelligence (Dec 2011) 
 * Introduction to Databases (Dec 2011) 
+
+
+document.getElementById("showorhide").style.display = "none";
