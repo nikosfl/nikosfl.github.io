@@ -145,9 +145,29 @@ function showOrHide(id)
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
-[[Syllabus](http://www.iliasdiakonikolas.org/teaching/Spring18/CSCI599.html)], [[Final Project](/work/classes/projects/proj_nf_csci599b.pdf)]
+<a href="javascript:showOrHide('syl_ee562');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf.pdf)
+<div style="display:none" id="syl_ee562">
+<ol style="margin-left: 3%;">
+    <li>Introduction to Machine Learning Theory; Supervised Learning</li>
+    <li>Online Learning; Winnow Algorithm</li>
+    <li>Perceptron Algorithm; Generic Bounds for Online Learning</li>
+    <li>VC dimension; Weighted Majority</li>
+    <li>PAC Learning Model; Online to PAC Conversion</li>
+    <li>VC Dimension; Sample Complexity of PAC Learning</li>
+    <li>Weak and Strong Learning</li>
+    <li>Boosting</li>
+    <li>PAC Learning with Noise: Random Classification Noise, Malicious Noise</li>
+    <li>Statistical Query (SQ) Learning; Simulating SQ Queries in the Presence of Random Classification Noise</li>
+    <li>Adaboost Algorithm and Analysis</li>
+</ol>
+</div>
 * CSCI 599: Deep Learning and its Applications (Fall 2017)  
-[[Syllabus](/work/classes/syllabus/syl_ee599.pdf)], [[Final Project](https://nikosfl.github.io/sc-scd/)] 
+ <a href="javascript:showOrHide('syl_ee562');">Outline</a>, [Final Project](https://nikosfl.github.io/sc-scd/)
+<div style="display:none" id="syl_ee562">
+<ol style="margin-left: 3%;">
+    <li>c</li>
+</ol>
+</div>
 
 ## National Tecnhical University of Athens
 *I had to complete 61 classes before obtaining my Diploma; here I am only listing a subset of those I took after my 6th semester (when I had to choose my flows of specialization) and are relevant to Signal Processing, Artificial Intelligence, or Software Development.* 
@@ -190,4 +210,5 @@ function showOrHide(id)
 <!-- [[Syllabus](/work/classes/syllabus/syl_ee517.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee517.pdf)] -->
 <!-- [[Syllabus](/work/classes/syllabus/syl_ee503.pdf)] -->
 <!-- [[Syllabus](/work/classes/syllabus/syl_ee562.pdf)] -->
-
+<!-- [[Syllabus](http://www.iliasdiakonikolas.org/teaching/Spring18/CSCI599.html)], [[Final Project](/work/classes/projects/proj_nf_csci599b.pdf)] -->
+<!-- [[Syllabus](/work/classes/syllabus/syl_ee599.pdf)], [[Final Project](https://nikosfl.github.io/sc-scd/)] -->
