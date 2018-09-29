@@ -26,8 +26,8 @@ function showOrHide()
 <a href="javascript:showOrHide();">Syllabus</a>  
 <div style="display:none" id="showorhide">
 <ol style="margin-left: 1%;">
-  <li>Coffee</li>
-  <li>Tea</li>
+  <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
+  <li>Optimization for Modern Data Analysis I: First Order Methods, Accelerated Schemes</li>
 </ol>
 </div>
 * EE 660: Machine Learning from Signals: Foundations and Methods (Fall 2017)  
