@@ -19,4 +19,4 @@ Over the last few years, I 've been lucky enough to collaborate with some amazin
 I like to spend my free time either hiking a trail or biking my bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go discover a new city, country, or continent. 
 <!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
 
-If you are interested in finding out more about me and what I have done in the past, you can check out my CV [here](/resume/NF_cv.pdf).
+If you are interested in finding out more about me and what I have done in the past, you can check out [my CV](/resume/NF_cv.pdf).
