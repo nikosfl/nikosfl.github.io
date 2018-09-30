@@ -140,7 +140,7 @@ function showOrHide(id)
 
 ### Computer Science
 * CSCI 599: Machine Learning Theory (Spring 2018)  
-<a href="javascript:showOrHide('syl_csci599b');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf.pdf)
+<a href="javascript:showOrHide('syl_csci599b');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf)
 <div style="display:none" id="syl_csci599b">
 <ol class="listing-grey" style="margin-left: 4%;">
     <li>Introduction to Machine Learning Theory; Supervised Learning</li>
