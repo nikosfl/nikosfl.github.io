@@ -79,7 +79,7 @@ function showOrHide(id)
 </ol>
 </div>
 * EE 517: Statistics for Engineers (Spring 2017)  
-<a href="javascript:showOrHide('syl_ee517');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee517.pdf)
+<a href="javascript:showOrHide('syl_ee517');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ks_ee517.pdf)
 <div style="display:none" id="syl_ee517">
 <ol class="listing-grey" style="margin-left: 4%;">
     <li>Overview of Statistics; Probability Review</li>
