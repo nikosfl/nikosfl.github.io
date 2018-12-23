@@ -6,7 +6,8 @@ use-site-title: true
 
 ## Conference Proceedings
 
-* __N. Flemotomos__, Z. Chen, D.C. Atkins & S. Narayanan. "Role Annotated Speech Recognition for Conversational Interactions". *IEEE Workshop on Spoken Language Technology (SLT)*, Athens, Greece, 2018. (accepted)
+* __N. Flemotomos__, Z. Chen, D.C. Atkins & S. Narayanan. "Role Annotated Speech Recognition for Conversational Interactions". *IEEE Workshop on Spoken Language Technology (SLT)*, Athens, Greece, 2018.
+[[Poster](/work/presentations/2018_SLT_RASR_poster.pdf)]
 
 * __N. Flemotomos__, P. Papadopoulos, J. Gibson & S. Narayanan. "[Combined Speaker Clustering and Role Recognition in Conversational Speech](http://dx.doi.org/10.21437/Interspeech.2018-1654)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, 2018.
 [[Oral](/work/presentations/2018_IS_SpeakerClustering_pres.pdf)]
