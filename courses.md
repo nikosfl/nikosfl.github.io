@@ -22,7 +22,7 @@ function showOrHide(id)
 ## University of Southern California
 ### Electrical Engineering
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
-<a href="javascript:showOrHide('syl_ee546');">Outline</a>  
+<a href="javascript:showOrHide('syl_ee546');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee546.pdf)
 <div style="display:none" id="syl_ee546">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>Introduction to Mathematics of Data; Sample Applications; Optimization Basics</li>
