@@ -6,6 +6,8 @@ use-site-title: true
 
 ## Conference Proceedings
 
+* __N. Flemotomos__, P. Georgiou, D.C. Atkins & S. Narayanan. "Role Specific Lattice Rescoring for Speaker Role Recognition from Speech Recognition Outputs". *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brighton, United Kingdom, 2019. (accepted)
+
 * __N. Flemotomos__, Z. Chen, D.C. Atkins & S. Narayanan. "Role Annotated Speech Recognition for Conversational Interactions". *IEEE Workshop on Spoken Language Technology (SLT)*, Athens, Greece, 2018.
 [[Poster](/work/presentations/2018_SLT_RASR_poster.pdf)]
 
