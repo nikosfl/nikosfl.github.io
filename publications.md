@@ -15,15 +15,15 @@ use-site-title: true
 [[Poster](/work/presentations/2018_SLT_RASR_poster.pdf)] [[DOI](http://dx.doi.org/10.1109/SLT.2018.8639611)]
 
 * __N. Flemotomos__, P. Papadopoulos, J. Gibson & S. Narayanan. "[Combined Speaker Clustering and Role Recognition in Conversational Speech](/work/papers/2018_IS_SpeakerClustering.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018.
-[[Oral](/work/presentations/2018_IS_SpeakerClustering_pres.pdf)] [[DOI](http://dx.doi.org/10.21437/Interspeech.2018-1654)]
+[[Slides](/work/presentations/2018_IS_SpeakerClustering_pres.pdf)] [[DOI](http://dx.doi.org/10.21437/Interspeech.2018-1654)]
 
 * __N. Flemotomos__, V. Martinez, J. Gibson, D.C. Atkins, T. Creed & S. Narayanan. "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](/work/papers/2018_IS_CBT_lang_features.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018.
-[[Oral](/work/presentations/2018_IS_CBT_lang_features_pres.pdf)] [[DOI](http://dx.doi.org/10.21437/Interspeech.2018-1518)]
+[[Slides](/work/presentations/2018_IS_CBT_lang_features_pres.pdf)] [[DOI](http://dx.doi.org/10.21437/Interspeech.2018-1518)]
 
 * K. Singla, Z. Chen, __N. Flemotomos__, J. Gibson, D. Can, D.C. Atkins & S. Narayanan. "[Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy](/work/papers/2018_IS_multimodal_MISC.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018.
 [[Poster](/work/presentations/2018_IS_multimodal_MISC_poster.pdf)] [[DOI](http://dx.doi.org/10.21437/Interspeech.2018-2551)]
 
 ## Diploma Thesis (in Greek)
 
-* __N. Flemotomos__. "[Robust Acoustic Features for Distant Speech Recognition](http://dspace.lib.ntua.gr/handle/123456789/42749?locale-attribute=en)", April 2016.
-[[Slides (in Greek)](/work/presentations/2016_NTUA_thesis_pres.pdf)]
+* __N. Flemotomos__. "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)", April 2016.
+[[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dspace.lib.ntua.gr/handle/123456789/42749?locale-attribute=en)]
