@@ -149,7 +149,7 @@ function showOrHide(id)
     <li>Latent Semantic Analysis</li>
     <li>Neural Networks</li>
     <li>Clinical and Cognitive Applications</li>
-    <li>Etics</li>
+    <li>Ethics</li>
 </ol>
 </div>
 * CSCI 599: Machine Learning Theory (Spring 2018)  
