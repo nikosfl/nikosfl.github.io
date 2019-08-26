@@ -139,6 +139,19 @@ function showOrHide(id)
 </div>
 
 ### Computer Science
+* CSCI 626: Computational Social Sciences: Text as Data (Fall 2019)  
+<a href="javascript:showOrHide('syl_csci626');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci626.pdf)
+<div style="display:none" id="syl_csci626">
+<ol class="listing-grey" style="margin-left: 4%;">
+    <li>Introduction to Computational Social Sciences</li>
+    <li>Dictionary Methods</li>
+    <li>Differential Language Analysis</li>
+    <li>Latent Semantic Analysis</li>
+    <li>Neural Networks</li>
+    <li>Clinical and Cognitive Applications</li>
+    <li>Etics</li>
+</ol>
+</div>
 * CSCI 599: Machine Learning Theory (Spring 2018)  
 <a href="javascript:showOrHide('syl_csci599b');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci599b.pdf)
 <div style="display:none" id="syl_csci599b">
