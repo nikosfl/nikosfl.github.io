@@ -140,7 +140,7 @@ function showOrHide(id)
 
 ### Computer Science
 * CSCI 626: Computational Social Sciences: Text as Data (Fall 2019)  
-<a href="javascript:showOrHide('syl_csci626');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci626.pdf)
+<a href="javascript:showOrHide('syl_csci626');">Outline</a>
 <div style="display:none" id="syl_csci626">
 <ol class="listing-grey" style="margin-left: 4%;">
     <li>Introduction to Computational Social Sciences</li>
