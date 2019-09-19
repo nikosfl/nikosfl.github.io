@@ -8,9 +8,9 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, 2019.
 
 ## Conference Proceedings
-* T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan. "The Second DIHARD Challenge: System Description for USC-SAIL Team". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. (accepted)
+* T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan. "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019.
 
-* V.R. Martinez, __N. Flemotomos__, V. Ardulov, K. Somandepalli, S.B. Goldberg, Z.E. Imel, D.C. Atkins & S. Narayanan. "Identifying Therapist and Client Personae for Therapeutic Alliance Estimation". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. (accepted)
+* V.R. Martinez, __N. Flemotomos__, V. Ardulov, K. Somandepalli, S.B. Goldberg, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Identifying Therapist and Client Personae for Therapeutic Alliance Estimation](/work/papers/2019_IS_Personae_Alliance.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019.
 
 * __N. Flemotomos__, P. Georgiou, D.C. Atkins & S. Narayanan. "[Role Specific Lattice Rescoring for Speaker Role Recognition from Speech Recognition Outputs](/work/papers/2019_ICASSP_Role_Specific_ASR.pdf)". *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brighton, United Kingdom, May 2019. [[Poster](/work/presentations/2019_ICASSP_Role_Specific_ASR_poster.pdf)] [[DOI](http://dx.doi.org/10.1109/ICASSP.2019.8683900)]
 
