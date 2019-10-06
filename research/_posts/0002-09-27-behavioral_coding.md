@@ -21,6 +21,6 @@ A robust system for the task described depends heavily on a speech pipeline whic
 * and converts the speech to text (automatic speech recognition).   
 <!-- provide link with the kaldi pipeline -->
 
-After the rich transcription of the dialogue between the therapist and the client, natural language processing methods can be applied towards the final behavioral coding. Our paper "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](http://dx.doi.org/10.21437/Interspeech.2018-1518)" describes the first effort found in the literature for automated CBT evaluation, purely based on linguistic features. In the paper "[Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy](http://dx.doi.org/10.21437/Interspeech.2018-2551)" we introduce a multimodal system applied on MI data.
+After the rich transcription of the dialogue between the therapist and the client, natural language processing methods can be applied towards the final behavioral coding. [This paper](http://dx.doi.org/10.21437/Interspeech.2018-1518) describes the first effort found in the literature for automated CBT evaluation, purely based on linguistic features, while [here](http://dx.doi.org/10.21437/Interspeech.2018-2551) we introduce a multimodal system applied on MI data.
 
 <!-- last updated 2018-09-27 -->
