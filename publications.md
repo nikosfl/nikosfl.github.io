@@ -8,6 +8,10 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, 2019.
 
 ## Conference Proceedings
+* __N. Flemotomos__, P. Georgiou, & S. Narayanan. "Language Aided Speaker Diarization Using Speaker Role Information". 2019. (*submitted*)
+
+* __N. Flemotomos__ & D. Dimitriadis. "A Memory Augmented Architecture for Continuous Speaker Identification in Meetings". 2019. (*submitted*)
+
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan. "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. [[DOI](http://dx.doi.org/10.21437/Interspeech.2019-1903)]
 
 * V.R. Martinez, __N. Flemotomos__, V. Ardulov, K. Somandepalli, S.B. Goldberg, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Identifying Therapist and Client Personae for Therapeutic Alliance Estimation](/work/papers/2019_IS_Personae_Alliance.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. [[DOI](http://dx.doi.org/10.21437/Interspeech.2019-2829)]
