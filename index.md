@@ -6,6 +6,7 @@ use-site-title: true
 bigimg: 
   - "/img/sri_lanka.jpg": Ramboda, Sri Lanka (2018) 
   - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama (2019)
+  - "/img/46789767_521083158409503_5920952836643880960_n.jpg": Volcano Acatenango, Guatemala (2018)
 ---
 
 <!-- ## Who I am -->
