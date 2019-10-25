@@ -4,7 +4,7 @@ title: Hello, world!
 subtitle: I 'm Nikos. Welcome to my universe.
 use-site-title: true
 bigimg: 
-  - "/img/sri_lanka.jpg": Sri Lanka 
+  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka (2018) 
 ---
 
 <!-- ## Who I am -->
