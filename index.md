@@ -5,6 +5,7 @@ subtitle: I 'm Nikos. Welcome to my universe.
 use-site-title: true
 bigimg: 
   - "/img/sri_lanka.jpg": Ramboda, Sri Lanka (2018) 
+  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama (2019)
 ---
 
 <!-- ## Who I am -->
