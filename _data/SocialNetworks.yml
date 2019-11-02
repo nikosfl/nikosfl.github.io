@@ -4,7 +4,7 @@
 #   name: Specify a user-friendly name that will be used as a link title
 #   baseURL: Define a base URL which will be combined with the value of
 #            site.social-network-links.<key>
-#   icon: Specify a valid fontawesome icon class
+#   icon: Specify a valid fontawesome icon class or academicicons
 
 facebook:
   name: "Facebook"
@@ -99,9 +99,9 @@ yelp:
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fab fa-researchgate"
+  icon: "ai ai-researchgate"
   
 googlescholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fas fa-graduation-cap"
+  icon: "ai ai-google-scholar"
