@@ -39,7 +39,7 @@ email:
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin-in"
+  icon: "fab fa-linkedin-in"
 
 xing:
   name: "Xing"
