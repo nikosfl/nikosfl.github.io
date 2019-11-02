@@ -15,9 +15,7 @@
               <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
             {%- endif -%}
             {%- if curkey == 'researchgate' -%}
-                <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fab {{ element.icon }} fa-stack-1x"></i> 
-                </span>
+                  <i class="fab {{ element.icon }}"></i> 
             {%- else -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
