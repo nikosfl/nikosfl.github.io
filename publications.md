@@ -8,7 +8,7 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, 2019.
 
 ## Conference Proceedings
-* __N. Flemotomos__, P. Georgiou & S. Narayanan. "Language Aided Speaker Diarization Using Speaker Role Information". (*submitted to ICASSP 2020*)
+* __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)". (*submitted to ICASSP 2020*)
 
 * __N. Flemotomos__ & D. Dimitriadis. "A Memory Augmented Architecture for Continuous Speaker Identification in Meetings". (*submitted to ICASSP 2020*)
 
