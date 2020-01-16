@@ -10,7 +10,7 @@ use-site-title: true
 ## Conference Proceedings
 * __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)". (*submitted to ICASSP 2020*)
 
-* __N. Flemotomos__ & D. Dimitriadis. "A Memory Augmented Architecture for Continuous Speaker Identification in Meetings". (*submitted to ICASSP 2020*)
+* __N. Flemotomos__ & D. Dimitriadis. "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](https://arxiv.org/pdf/2001.05118.pdf)". (*submitted to ICASSP 2020*)
 
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan. "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. [[DOI](http://dx.doi.org/10.21437/Interspeech.2019-1903)]
 
