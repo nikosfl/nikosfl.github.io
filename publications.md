@@ -8,9 +8,7 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, 2019.
 
 ## Conference Proceedings
-* __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)". (*submitted to ICASSP 2020*)
-
-* __N. Flemotomos__ & D. Dimitriadis. "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](https://arxiv.org/pdf/2001.05118.pdf)". (*submitted to ICASSP 2020*)
+* __N. Flemotomos__ & D. Dimitriadis. "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](https://arxiv.org/pdf/2001.05118.pdf)". *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Barcelona, Spain, May 2020. (*accepted*)
 
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan. "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)". *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019. [[DOI](http://dx.doi.org/10.21437/Interspeech.2019-1903)]
 
@@ -36,5 +34,6 @@ use-site-title: true
 [[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dx.doi.org/10.26240/heal.ntua.12402)]
 
 ## Other Manuscripts
+* __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)", November 2019.
 
-* __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019
+* __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019.
