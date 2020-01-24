@@ -34,6 +34,6 @@ use-site-title: true
 [[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dx.doi.org/10.26240/heal.ntua.12402)]
 
 ## Other Manuscripts
-* __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)", November 2019.
+* __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Language Aided Speaker Diarization Using Speaker Role Information](https://arxiv.org/pdf/1911.07994.pdf)", arXiv preprint arXiv:1911.07994, November 2019.
 
 * __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019.
