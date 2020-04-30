@@ -5,6 +5,7 @@ use-site-title: true
 bigimg: 
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
+ - "/img/46789767_521083158409503_5920952836643880960_n.jpg": Volcano Acatenango, Guatemala
 ---
 
 Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! Maybe at some point I will create a travel blog sharing my travel adventures, but until then, here are the places I 've been so far. Long way to go until filling the entire map...
