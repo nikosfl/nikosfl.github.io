@@ -2,6 +2,9 @@
 layout: page
 title: Traveling
 use-site-title: true
+bigimg: 
+ - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
+ - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
 ---
 
 Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! 
