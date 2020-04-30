@@ -13,6 +13,7 @@ bigimg:
  - "/img/polimnio.jpg": Polilimnio, Greece
  - "/img/cesky.jpg": Cesky Krumlov, Czech Republic
  - "/img/cascades.jpg": North Cascades National Park, USA
+ - "/img/hyderabad.jpg": Hyderabad, India
 ---
 <!-- - "/img/": Volcano Acatenango, Guatemala -->
 
