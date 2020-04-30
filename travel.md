@@ -7,6 +7,9 @@ bigimg:
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
  - "/img/canyonlands.jpg": Canyonlands National Park, USA
  - "/img/tikal.jpg": Tikal, Guatemala
+ - "/img/tres_ojos.jpg": Los Tres Ojos National Park, Dominican Republic
+ - "/img/luxembourg.jpg": Luxembourg City, Luxembourg
+ - "/img/chania.jpg": Chania, Greece
 ---
 <!-- - "/img/": Volcano Acatenango, Guatemala -->
 
