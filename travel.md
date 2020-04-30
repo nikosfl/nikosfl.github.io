@@ -8,4 +8,6 @@ Have you ever caught yourself staring at a world map making detailed plans about
 
 But even traveling 
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi" width="640" height="480"></iframe>
+
 I 've been lucky enough to be given the opportunity to travel to different places of the world and I am always amazed by the unexplored beauties of our planet. But even 
