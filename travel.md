@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traveling
+title:  
 use-site-title: true
 bigimg: 
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
