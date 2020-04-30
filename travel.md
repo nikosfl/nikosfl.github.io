@@ -16,6 +16,7 @@ bigimg:
  - "/img/hyderabad.jpg": Hyderabad, India
  - "/img/acatenango.jpg": Volcano Acatenango, Guatemala
  - "/img/teotihuacan.jpg": Teotihuacan, Mexico
+ - "/img/manuel_antonio.jpg": Manuel Antonio, Costa Rica
 ---
 
 <!-- Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! Maybe at some point I will create a travel blog sharing my travel adventures, but until then, here are the places I 've been so far. Hopefully more pins will keep being added... -->
