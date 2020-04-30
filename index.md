@@ -3,23 +3,19 @@ layout: page
 title: Hello, world!
 subtitle: I 'm Nikos. Welcome to my universe.
 use-site-title: true
-# bigimg: 
-#  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka (2018) 
-#  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama (2019)
-#  - "/img/46789767_521083158409503_5920952836643880960_n.jpg": Volcano Acatenango, Guatemala (2018)
 ---
 
 <!-- ## Who I am -->
 I am a 4th year PhD student in Electrical Engineering, member of the [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu) at the University of Southern California, supervised by [Professor Shrikanth Narayanan](https://sail.usc.edu/people/shri.php). My main research interests include Speaker Diarization and Role Recognition, Speech Processing, and Machine Learning. Prior to joining USC, I obtained my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I completed my thesis under the supervision of [Professor Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm).
 
-I was born and raised in Athens, Greece. My official given name is Nikolaos, one the most common greek names, but according to recent surveys [citation needed], no Greek ever called another Greek "Nikolaos".
+<!-- I was born and raised in Athens, Greece. My official given name is Nikolaos, one the most common greek names, but according to recent surveys [citation needed], no Greek ever called another Greek "Nikolaos". -->
 
 <!-- ## What I am doing (and have done) -->
 <!-- You can find my CV [here](/resume/NF_cv.pdf) and my one-page resume [here](assets/NF_resume.pdf). -->  
 
 Over the last few years, I 've been lucky enough to collaborate with some amazing people working on cool projects, on which you can find some information in my [Research & Projects](research) page.
 
-I like to spend my free time either hiking a trail or riding my bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go discover a new city, country, or continent. 
+I like to spend my free time either hiking a trail or riding my bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go [discover a new city, country, or continent](travel). 
 <!-- I like to spend my free time hiking a trail, riding my bike, or... jumping out of planes. -->
 <!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
 
