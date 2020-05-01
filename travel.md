@@ -21,9 +21,6 @@ bigimg:
 
 <!-- Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! Maybe at some point I will create a travel blog sharing my travel adventures, but until then, here are the places I 've been so far. Hopefully more pins will keep being added... -->
 
-<!-- <div style="text-align:center;"> -->
-<div class="post-image">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi" width="640" height="480"></iframe>
-</div>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi" width="640" height="480" class="img-center"></iframe>
 
 <!-- I 've been lucky enough to be given the opportunity to travel to different places of the world and I am always amazed by the unexplored beauties of our planet. But even -->
