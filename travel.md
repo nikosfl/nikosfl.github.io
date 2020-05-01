@@ -23,8 +23,7 @@ bigimg:
 
 <!-- <div style="text-align:center;"> -->
 <!-- <div class="img"> -->
-<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi" width="640" height="480"></iframe> -->
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BcK-2CaiLY4gxsdd5RWaWcrordzmFxSi" width="640" height="480"></iframe>
 <!-- </div> -->
 
 <!-- I 've been lucky enough to be given the opportunity to travel to different places of the world and I am always amazed by the unexplored beauties of our planet. But even -->
