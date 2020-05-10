@@ -245,6 +245,12 @@ video {
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .navbar-custom .avatar-container  .avatar-img {
+  display: none;
+  }
+}
+
 .container-fluid  {
   padding-left: max(15px, env(safe-area-inset-left));
   padding-right: max(15px, env(safe-area-inset-right));
