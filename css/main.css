@@ -246,7 +246,7 @@ video {
 }
 
 @media only screen and (max-width: 767px) {
-  .navbar-custom .avatar-container  .avatar-img {
+  .navbar-custom .avatar-container {
   display: none;
   }
 }
