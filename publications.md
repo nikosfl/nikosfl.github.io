@@ -8,7 +8,7 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*.
 
 ## Conference Proceedings
-* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions" *(submitted to Interspeech 2020)*
+* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)" *(submitted to Interspeech 2020)*
 <!-- *Annual Conference of the International Speech Communication Association (Interspeech)*, Shanghai, China, October 2020.-->
 
 * __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)", *Odyssey: The Speaker and Language Recognition Workshop*, Tokyo, Japan, November 2020. [[DOI](http://dx.doi.org/10.21437/Odyssey.2020-17)]
