@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 ## Journals
-* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins (in press). "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*.
+* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins. "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, June 2020. [[DOI](http://dx.doi.org/10.1037/cou0000382)]
 
 ## Conference Proceedings
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)" *(submitted to Interspeech 2020)*
