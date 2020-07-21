@@ -21,6 +21,25 @@ function showOrHide(id)
 
 ## University of Southern California
 ### Electrical Engineering
+* EE 682: Law and Intellectual Property for Engineers (Fall 2020)  
+<a href="javascript:showOrHide('syl_ee546');">Outline</a>
+<div style="display:none" id="syl_ee546">
+<ol class="listing-grey" style="margin-left: 4%;">
+  <li>American legal system; Intellectual property</li>
+  <li>Torts I: Intentional harm and negligence</li>
+  <li>Torts II: Strict liability; Patent and copyright infringement</li>
+  <li>Criminal law and procedure; Theft of trade secrets</li>
+  <li>Contracts I: Making and breaking promises</li>
+  <li>Contracts II: Third-party liability; Assignments and licenses</li>
+  <li>Law of property; Estates; Transfers</li>
+  <li>Civil procedure and federal courts; Standing</li>
+  <li>Constitutional law; Congressional authority; State vs. federal law</li>
+  <li>Evidence; Standards of proof; Relevance</li>
+  <li>Corporations; Cyberlaw</li>
+  <li>Patents; Drafting claims</li>
+  <li>Copyright; Trade secrets; Trademarks</li>
+</ol>
+</div>
 * EE 546: Mathematics of High-Dimensional Data (Fall 2018)  
 <a href="javascript:showOrHide('syl_ee546');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_ee546.pdf)
 <div style="display:none" id="syl_ee546">
