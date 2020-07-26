@@ -12,9 +12,6 @@ use-site-title: true
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins. "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, July 2020. [[DOI](http://dx.doi.org/10.1037/cou0000382)]
 
 ## Conference Proceedings
-* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)" *(submitted to Interspeech 2020)*
-<!-- *Annual Conference of the International Speech Communication Association (Interspeech)*, Shanghai, China, October 2020.-->
-
 * __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)", *Odyssey: The Speaker and Language Recognition Workshop*, Tokyo, Japan, November 2020. [[DOI](http://dx.doi.org/10.21437/Odyssey.2020-17)]
 
 * __N. Flemotomos__ & D. Dimitriadis. "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](/work/papers/2020_ICASSP_RMC_MSR.pdf)". *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Online, May 2020. [[Slides](/work/presentations/2020_ICASSP_RMC_MSR_pres.pdf)] [[Video](/work/presentations/2020_ICASSP_RMC_MSR_vid.mp4)] [[DOI](http://dx.doi.org/10.1109/ICASSP40776.2020.9053152)]
@@ -43,4 +40,6 @@ use-site-title: true
 [[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dx.doi.org/10.26240/heal.ntua.12402)]
 
 ## Other Manuscripts
+* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)" May 2020.
+
 * __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019.
