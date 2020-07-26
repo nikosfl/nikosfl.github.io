@@ -40,6 +40,6 @@ use-site-title: true
 [[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dx.doi.org/10.26240/heal.ntua.12402)]
 
 ## Other Manuscripts
-* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)" May 2020.
+* Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](https://arxiv.org/pdf/2005.07809.pdf)", May 2020.
 
 * __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019.
