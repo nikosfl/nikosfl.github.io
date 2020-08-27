@@ -158,6 +158,31 @@ function showOrHide(id)
 </div>
 
 ### Computer Science
+* CSCI 662: Advanced Natural Language Processing (Fall 2020)  
+<a href="javascript:showOrHide('syl_ee546');">Outline</a>
+<div style="display:none" id="syl_ee546">
+<ol class="listing-grey" style="margin-left: 4%;">
+  <li>Introduction and Probability Basics</li>
+  <li>Linear Classifiers: Naive Bayes, Logistic Regression, Perceptron</li>
+  <li>Nonlinear Classifiers, feed-forward neural networs, backpropagation, gradient descent</li>
+  <li>POS tags, HMMs, search</li>
+  <li>Parsing and Syntax I: treebanks, eeevaluation, CKY, grammar induction, PCFGs</li>
+  <li>Parsing and Syntax II: dependeencies, shift-reduce</li>
+  <li>Evaluation, Annotation, Mechanical Turk</li>
+  <li>Semantics: Word sense, PropBank, AMR, distributional and lexical semantics</li>
+  <li>Language Models: n-gram, feed-forward, recurrent</li>
+  <li>Machine Translation history, evaluation, statistical MT</li>
+  <li>Neural Machine Translation, summarization, generation</li>
+  <li>Transformers</li>
+  <li>Large Contextualized Language Models (ElMo, BERT, GPT, etc.)</li>
+  <li>Information Extraction: Entity/Relation, CRF</li>
+  <li>Information Extraction: Events, zero-shot</li>
+  <li>Blade Runner NLP / Bertology</li>
+  <li>Creative generation, structure-to-text, text-to-text</li>
+  <li>Dialogue</li>
+  <li>Power and Ethics</li>
+</ol>
+</div>
 * CSCI 626: Computational Social Sciences: Text as Data (Fall 2019)  
 <a href="javascript:showOrHide('syl_csci626');">Outline</a>, [Final Project](/work/classes/projects/proj_ta_sc_nf_aj_csci626.pdf)
 <div style="display:none" id="syl_csci626">
