@@ -167,7 +167,7 @@ function showOrHide(id)
   <li>Nonlinear Classifiers, feed-forward neural networs, backpropagation, gradient descent</li>
   <li>POS tags, HMMs, search</li>
   <li>Parsing and Syntax I: treebanks, evaluation, CKY, grammar induction, PCFGs</li>
-  <li>Parsing and Syntax II: dependeencies, shift-reduce</li>
+  <li>Parsing and Syntax II: dependencies, shift-reduce</li>
   <li>Evaluation, Annotation, Mechanical Turk</li>
   <li>Semantics: Word sense, PropBank, AMR, distributional and lexical semantics</li>
   <li>Language Models: n-gram, feed-forward, recurrent</li>
@@ -175,8 +175,7 @@ function showOrHide(id)
   <li>Neural Machine Translation, summarization, generation</li>
   <li>Transformers</li>
   <li>Large Contextualized Language Models (ElMo, BERT, GPT, etc.)</li>
-  <li>Information Extraction: Entity/Relation, CRF</li>
-  <li>Information Extraction: Events, zero-shot</li>
+  <li>Information Extraction: Entity/Relation, CRF, Events, zero-shot</li>
   <li>Blade Runner NLP / Bertology</li>
   <li>Creative generation, structure-to-text, text-to-text</li>
   <li>Dialogue</li>
