@@ -164,7 +164,7 @@ function showOrHide(id)
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>Introduction and Probability Basics</li>
   <li>Linear Classifiers: Naive Bayes, Logistic Regression, Perceptron</li>
-  <li>Nonlinear Classifiers, feed-forward neural networs, backpropagation, gradient descent</li>
+  <li>Nonlinear Classifiers, feed-forward neural networks, backpropagation, gradient descent</li>
   <li>POS tags, HMMs, search</li>
   <li>Parsing and Syntax I: treebanks, evaluation, CKY, grammar induction, PCFGs</li>
   <li>Parsing and Syntax II: dependencies, shift-reduce</li>
