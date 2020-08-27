@@ -22,8 +22,8 @@ function showOrHide(id)
 ## University of Southern California
 ### Electrical Engineering
 * EE 682: Law and Intellectual Property for Engineers (Fall 2020)  
-<a href="javascript:showOrHide('syl_ee546');">Outline</a>
-<div style="display:none" id="syl_ee546">
+<a href="javascript:showOrHide('syl_ee682');">Outline</a>
+<div style="display:none" id="syl_ee682">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>American legal system; Intellectual property</li>
   <li>Torts I: Intentional harm and negligence</li>
@@ -159,8 +159,8 @@ function showOrHide(id)
 
 ### Computer Science
 * CSCI 662: Advanced Natural Language Processing (Fall 2020)  
-<a href="javascript:showOrHide('syl_ee546');">Outline</a>
-<div style="display:none" id="syl_ee546">
+<a href="javascript:showOrHide('syl_cscii662');">Outline</a>
+<div style="display:none" id="syl_csci662">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>Introduction and Probability Basics</li>
   <li>Linear Classifiers: Naive Bayes, Logistic Regression, Perceptron</li>
