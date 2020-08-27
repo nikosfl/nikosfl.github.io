@@ -166,7 +166,7 @@ function showOrHide(id)
   <li>Linear Classifiers: Naive Bayes, Logistic Regression, Perceptron</li>
   <li>Nonlinear Classifiers, feed-forward neural networs, backpropagation, gradient descent</li>
   <li>POS tags, HMMs, search</li>
-  <li>Parsing and Syntax I: treebanks, eeevaluation, CKY, grammar induction, PCFGs</li>
+  <li>Parsing and Syntax I: treebanks, evaluation, CKY, grammar induction, PCFGs</li>
   <li>Parsing and Syntax II: dependeencies, shift-reduce</li>
   <li>Evaluation, Annotation, Mechanical Turk</li>
   <li>Semantics: Word sense, PropBank, AMR, distributional and lexical semantics</li>
