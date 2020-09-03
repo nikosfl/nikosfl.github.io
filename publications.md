@@ -9,7 +9,7 @@ use-site-title: true
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch., Z.E. Imel, D.C. Atkins & S. Narayanan. "“Am I A Good Therapist?” Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies". *(submitted)*
 
-* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins. "Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case". *Journal of Counseling Psychology*, July 2020. [[DOI](http://dx.doi.org/10.1037/cou0000382)]
+* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins. "[Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case](/work/papers/2020_JCP_ML_NLP_Alliance.pdf)". *Journal of Counseling Psychology*, July 2020. [[DOI](http://dx.doi.org/10.1037/cou0000382)]
 
 ## Conference Proceedings
 * __N. Flemotomos__, P. Georgiou & S. Narayanan. "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)", *Odyssey: The Speaker and Language Recognition Workshop*, Online, November 2020. [[DOI](http://dx.doi.org/10.21437/Odyssey.2020-17)]
