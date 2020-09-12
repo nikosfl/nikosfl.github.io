@@ -176,8 +176,8 @@ function showOrHide(id)
   <li>Transformers</li>
   <li>Large Contextualized Language Models (ElMo, BERT, GPT, etc.)</li>
   <li>Information Extraction: Entity/Relation, CRF, Events, zero-shot</li>
-  <li>Blade Runner NLP / Bertology</li>
-  <li>Creative generation, structure-to-text, text-to-text</li>
+  <li>Blade Runner NLP / BERTology</li>
+  <li>Text games and Reinforcement Learning</li>
   <li>Dialogue</li>
   <li>Power and Ethics</li>
 </ol>
