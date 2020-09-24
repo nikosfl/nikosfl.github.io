@@ -158,6 +158,18 @@ function showOrHide(id)
 </div>
 
 ### Computer Science
+<!-- * CSCI 670: Advanced Analysis of Algorithms (Fall 2021)  
+<a href="javascript:showOrHide('syl_csci670');">Outline</a>
+<div style="display:none" id="syl_csci670">
+<ol class="listing-grey" style="margin-left: 4%;">
+  <li></li>    
+</ol>
+* CSCI 534: Affective Computing (Spring 2021)  
+<a href="javascript:showOrHide('syl_csci534');">Outline</a>
+<div style="display:none" id="syl_csci534">
+<ol class="listing-grey" style="margin-left: 4%;">
+  <li></li>    
+</ol> -->
 * CSCI 662: Advanced Natural Language Processing (Fall 2020)  
 <a href="javascript:showOrHide('syl_csci662');">Outline</a>
 <div style="display:none" id="syl_csci662">
