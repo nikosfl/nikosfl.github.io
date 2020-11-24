@@ -169,7 +169,24 @@ function showOrHide(id)
 <div style="display:none" id="syl_csci534">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li></li>    
-</ol> -->
+</ol> 
+* CSCI 535: Multimodal Probabilistic Learning of Human Communication (Spring 2021)  
+<a href="javascript:showOrHide('syl_csci535');">Outline</a>
+<div style="display:none" id="syl_csci535">
+<ol class="listing-grey" style="margin-left: 4%;">
+  <li>Introduction and Communication Models</li>
+  <li>Machine Learning: basic concepts</li> 
+  <li>Study Design, Evaluation and Analysis</li> 
+  <li>Affective messages and personality traits</li> 
+  <li>Vocal messages</li> 
+  <li>Virtual Humans</li> 
+  <li>Verbal and Conversational messages</li> 
+  <li>Multimodal behavior recognition</li> 
+  <li>Human-Robot Communication</li> 
+  <li>Multimodal Sentiment Analysis</li>
+  <li>Dyadic and Multiparty Interactions</li>
+  <li>Bias and Ethics</li> 
+</ol>-->
 * CSCI 662: Advanced Natural Language Processing (Fall 2020)  
 <a href="javascript:showOrHide('syl_csci662');">Outline</a>
 <div style="display:none" id="syl_csci662">
