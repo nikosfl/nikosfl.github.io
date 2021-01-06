@@ -5,6 +5,8 @@ use-site-title: true
 ---
 
 ## Journals
+<!-- * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations". *(submitted)* -->
+
 * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan. "“Am I A Good Therapist?” Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies". *(submitted)*
