@@ -105,3 +105,9 @@ googlescholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
   icon: "ai ai-google-scholar"
+
+semanticscholar:
+  name: "Semantic Scholar"
+  baseURL: "https://www.semanticscholar.org/"
+  icon: "ai ai-semantic-scholar"
+  
