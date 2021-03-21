@@ -184,7 +184,7 @@ function showOrHide(id)
 </ol>
 </div>
 * CSCI 662: Advanced Natural Language Processing (Fall 2020)  
-<a href="javascript:showOrHide('syl_csci662');">Outline</a>
+<a href="javascript:showOrHide('syl_csci662');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_csci662.pdf)
 <div style="display:none" id="syl_csci662">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>Introduction and Probability Basics</li>
