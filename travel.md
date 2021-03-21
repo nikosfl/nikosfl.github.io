@@ -10,7 +10,7 @@ bigimg:
  - "/img/tres_ojos.jpg": Los Tres Ojos National Park, Dominican Republic
  - "/img/luxembourg.jpg": Luxembourg City, Luxembourg
  - "/img/chania.jpg": Chania, Greece
- - "/img/polimnio.jpg": Polilimnio, Greece
+ - "/img/key_biscayne.jpg": Key Biscayne, USA
  - "/img/cesky.jpg": Cesky Krumlov, Czech Republic
  - "/img/cascades.jpg": North Cascades National Park, USA
  - "/img/hyderabad.jpg": Hyderabad, India
