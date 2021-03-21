@@ -260,7 +260,7 @@ function showOrHide(id)
 </div>
 
 ## National Technical University of Athens
-*I had to complete 61 classes before obtaining my Diploma; here I am only listing a subset of those I took after my 6th semester (when I had to choose my flows of specialization) and are relevant to Signal Processing, Artificial Intelligence, or Software Development.* 
+*This is a subset of the advanced classes I took at NTUA which are relevant to Signal Processing, Artificial Intelligence, or Software Development.* 
 * Pattern Recognition with Emphasis on Speech Recognition 
 * Speech and Natural Language Processing 
 * Computer Vision 
