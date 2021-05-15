@@ -10,7 +10,7 @@ use-site-title: true
 <!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
 -->
 
-* __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://arxiv.org/pdf/2102.11265.pdf)". *Behavior Research Methods *, 2021. *(in press)*
+* __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://arxiv.org/pdf/2102.11265.pdf)". *Behavior Research Methods*, 2021. *(in press)*
 
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins. "[Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case](/work/papers/2020_JCP_ML_NLP_Alliance.pdf)". *Journal of Counseling Psychology*, July 2020. [[DOI](http://dx.doi.org/10.1037/cou0000382)]
 
