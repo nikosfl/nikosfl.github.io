@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 ## Journals
-* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan. "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](https://arxiv.org/pdf/2106.07922.pdf). *(under review)*
+* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan. "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](https://arxiv.org/pdf/2106.07922.pdf)". *(under review)*
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](https://arxiv.org/pdf/2102.11573.pdf)". *(under review)*
 
