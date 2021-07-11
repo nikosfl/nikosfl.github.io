@@ -166,7 +166,7 @@ function showOrHide(id)
 </ol> 
 </div> -->
 * CSCI 535: Multimodal Probabilistic Learning of Human Communication (Spring 2021)  
-<a href="javascript:showOrHide('syl_csci535');">Outline</a>
+<a href="javascript:showOrHide('syl_csci535');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_bm_rp_csci535.pdf)
 <div style="display:none" id="syl_csci535">
 <ol class="listing-grey" style="margin-left: 4%;">
   <li>Introduction and Communication Models</li>
