@@ -10,7 +10,7 @@ body {
   lang: 'en-US';
   font-family: 'Lora', 'Times New Roman', serif;
   text-align: justify;
-  font-size: 18px;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -23,7 +23,7 @@ body {
   {% endif %}
 }
 p {
-  line-height: 1.5;
+  line-height: 2.0;
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
