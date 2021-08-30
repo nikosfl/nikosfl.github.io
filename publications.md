@@ -5,8 +5,6 @@ use-site-title: true
 ---
 
 ## Journals
-* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan. "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](https://arxiv.org/pdf/2106.07922.pdf)". *(under review)*
-
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](https://arxiv.org/pdf/2102.11573.pdf)". *(under review)*
 
 <!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
@@ -48,5 +46,6 @@ __Best Student Paper Nominee__
 [[Slides](/work/presentations/2016_NTUA_thesis_pres.pdf)][[DOI](http://dx.doi.org/10.26240/heal.ntua.12402)]
 
 ## Other Manuscripts
-
+* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan. "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](https://arxiv.org/pdf/2106.07922.pdf)", June 2021.
+ 
 * __N. Flemotomos__. "[Automatic Speech Recognition: HMM/GMM Paradigm and WFST Framework](/work/thesis/asr_wfst_tutorial_nf.pdf)", March 2019.
