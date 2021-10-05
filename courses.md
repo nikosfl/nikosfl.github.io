@@ -158,13 +158,24 @@ function showOrHide(id)
 </div>
 
 ### Computer Science
-<!-- * CSCI 670: Advanced Analysis of Algorithms (Fall 2021)  
-<a href="javascript:showOrHide('syl_csci670');">Outline</a>
-<div style="display:none" id="syl_csci670">
+* CSCI 570: Analysis of Algorithms (Summer 2021)  
+<a href="javascript:showOrHide('syl_csci570');">Outline</a>
+<div style="display:none" id="syl_csci570">
 <ol class="listing-grey" style="margin-left: 4%;">
-  <li></li>    
+  <li>Introduction: Stable Matching, Asymptotic Notation, BFS, DFS</li>
+  <li>Greedy Algorithms</li>
+  <li>Heaps and Amortized Cost</li>
+  <li>Minimum Spanning Trees</li>
+  <li>Shortest Paths</li>
+  <li>Divide and Conquer</li>
+  <li>Dynamic Programming</li>
+  <li>Network Flow: Max Flow</li>
+  <li>Network Flow: Circulation</li>
+  <li>NP-Completeness</li>
+  <li>Approximation Algorithms</li>
+  <li>Linear Programming</li>
 </ol> 
-</div> -->
+</div>
 * CSCI 535: Multimodal Probabilistic Learning of Human Communication (Spring 2021)  
 <a href="javascript:showOrHide('syl_csci535');">Outline</a>, [Final Project](/work/classes/projects/proj_nf_bm_rp_csci535.pdf)
 <div style="display:none" id="syl_csci535">
