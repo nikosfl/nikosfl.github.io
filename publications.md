@@ -5,10 +5,10 @@ use-site-title: true
 ---
 
 ## Journals
-* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](https://arxiv.org/pdf/2102.11573.pdf)". *PLOS ONE*, 2021. *(accepted)*
-
 <!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
 -->
+
+* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](https://arxiv.org/pdf/2102.11573.pdf)". *PLOS ONE*, October 2021. [[DOI](http://dx.doi.org/10.1371/journal.pone.0258639)]
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://rdcu.be/crPrw)". *Behavior Research Methods*, August 2021. [[DOI](http://dx.doi.org/10.3758/s13428-021-01623-4)]
 
