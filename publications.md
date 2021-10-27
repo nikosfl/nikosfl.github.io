@@ -10,7 +10,7 @@ use-site-title: true
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan. "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2021_CBT_local_estimates.pdf)", 2021 (*submitted*).
 
-* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)". *PLOS ONE*, October 2021. [[DOI](http://dx.doi.org/10.1371/journal.pone.0258639)]
+* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan. "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)". *PLOS ONE*, October 2021. [[Poster](/work/presentations/2021_ECEfestival_BERT_CBT_poster.pdf) @ USC ECE Research Festival] [[DOI](http://dx.doi.org/10.1371/journal.pone.0258639)]
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan. "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://rdcu.be/crPrw)". *Behavior Research Methods*, August 2021. [[DOI](http://dx.doi.org/10.3758/s13428-021-01623-4)]
 
