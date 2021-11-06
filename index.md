@@ -19,4 +19,4 @@ I like to spend my free time either hiking a trail or riding my bike. Whenever I
 <!-- I like to spend my free time hiking a trail, riding my bike, or... jumping out of planes. -->
 <!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
 
-<!-- If you are interested in finding out more about me and what I have done in the past, you can check out [my CV](cv). -->
+If you are interested in finding out more about me and what I have done in the past, you can check out [my CV](cv).
