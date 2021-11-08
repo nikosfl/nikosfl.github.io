@@ -289,7 +289,7 @@ function showOrHide(id)
 <!-- * Applied Mathematics - Calculus of Variations * Biomedical Technology Laboratory * Electromagnetic Compatibility -->
 <!-- * Mathematical Logic for Computer Science * Control Systems Design -->
 
-## Massive Online Open Courses
+<!-- ## Massive Online Open Courses
 *offered by Coursera*
 * Bioinformatics Algorithms - Part I (Feb 2014)
 * Neuroethics (Nov 2013)
@@ -303,7 +303,7 @@ function showOrHide(id)
 *offered by Stanford University*
 * Machine Learning (Dec 2011)  
 * Introduction to Artificial Intelligence (Dec 2011) 
-* Introduction to Databases (Dec 2011) 
+* Introduction to Databases (Dec 2011) -->
 
 <!--[[Syllabus](/work/classes/syllabus/syl_ee546.pdf)]-->  
 <!--[[Syllabus](/work/classes/syllabus/syl_ee660.pdf)], [[Final Project](/work/classes/projects/proj_nf_ee660.pdf)]-->
