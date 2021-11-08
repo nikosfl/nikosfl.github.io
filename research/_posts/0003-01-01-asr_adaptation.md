@@ -14,7 +14,7 @@ nowadays end-to-end solutions are successfully employed.
   <img src="/img/malte_helmhold_unsplash.jpg" width="600">  
 </p>
 <em><font size="-1">
-Automatic speech recognition revolutionalizes human-computer interaction.  </br>
+Automatic speech recognition revolutionalizes human-computer interaction.  <br>
 Photo by Malte Helmhold on Unsplash.
 </font></em>
 
