@@ -4,7 +4,7 @@ title: Automating Behavioral Coding in Psychotherapy
 subtitle: bring the machines in the game
 use-site-title: true
 permalink: research/behavioral_coding
-involved: 2017-present
+involved: 2017-2021
 ---
 
 Psychotherapy quality assessment is typically addressed by human raters who evaluate recorded sessions along specific behavioral codes, as defined by standard coding manuals. The recordings capture the complex series of interactions between the therapist and the client, and as such, they encode the active ingredients of the therapy. However, the time and cost barriers introduced by such a procedure lead to poor feasibility in real-world settings.
@@ -30,6 +30,6 @@ A robust system for the task described depends heavily on a speech pipeline whic
 
 Such a pipeline is presented and analyzed in [this paper](https://rdcu.be/crPrw).
 
-After the rich transcription of the dialogue between the therapist and the client is generated, natural language processing methods can be applied towards the final behavioral coding. [This paper](/work/papers/2018_IS_CBT_lang_features.pdf) describes the first effort found in the literature for automated CBT evaluation, purely based on linguistic features, while [here](/work/papers/2018_IS_multimodal_MISC.pdf) we introduce a multimodal system applied on MI data.
+After the rich transcription of the dialogue between the therapist and the client is generated, natural language processing methods can be applied towards the final behavioral coding. [This paper](/work/papers/2018_IS_CBT_lang_features.pdf) describes the first effort found in the literature for automated CBT evaluation, purely based on linguistic features, while [here](/work/papers/2018_IS_multimodal_MISC.pdf) we introduce a multimodal system applied on MI data. Representations based on contextualized language models (e.g., BERT) can be applied to improve the predictive power of systems used in behavioral coding, as shown in our works [here](https://nikosfl.github.io/work/papers/2021_PLOS_CBT_BERT.pdf) -- where we introduce a multi-task model augmented with thepary-related metadata -- and [here](https://nikosfl.github.io/work/papers/2021_CBT_local_estimates.pdf) -- where we incorporate a local quality estimator to analyze long therapy sessions.   
 
 <!-- last updated 2021-11-07 -->
