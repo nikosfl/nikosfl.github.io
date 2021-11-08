@@ -17,7 +17,7 @@ The question that naturally comes to mind - or, at least, to an engineer's mind 
 </p>
 <em><font size="-1">
 Automatic quality assessment of a psychotherapy session.  <br>
-Image from [Flemotomos et. al., Automated evaluation of psychotherapy skills using speech and language technologies, Behavior Research Methods, 2021](http://dx.doi.org/10.3758/s13428-021-01623-4)
+Image from <a href="http://dx.doi.org/10.3758/s13428-021-01623-4">Flemotomos et. al., Automated evaluation of psychotherapy skills using speech and language technologies, Behavior Research Methods, 2021</a>
 </font></em>
 
 A robust system for the task described depends heavily on a speech pipeline which, given the raw audio signal, 
