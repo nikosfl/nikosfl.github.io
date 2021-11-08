@@ -3,7 +3,7 @@ layout: post
 title: Speaker Adaptation for Automatic Speech Recognition
 subtitle: make our voice assistants understand us more accurately
 use-site-title: true
-permalink: research/srr
+permalink: research/asr_adaptation
 involved: 2020-2021
 ---
 
