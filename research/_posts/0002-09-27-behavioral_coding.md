@@ -13,7 +13,7 @@ The question that naturally comes to mind - or, at least, to an engineer's mind 
 <!-- "[A technology prototype system for rating therapist empathy from audio recordings in addiction counseling](http://doi.org/10.7717/peerj-cs.59)" -->
 
 <p align="center">
-  <img src="overview_pipeline.png" width="550">  
+  <img src="/img/overview_pipeline.png" width="550">  
 </p>
 <em><font size="-1">
 Automatic quality assessment of a psychotherapy session.  <br>
