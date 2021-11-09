@@ -19,7 +19,7 @@ use-site-title: true
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan.   
 "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://rdcu.be/crPrw)"  
-*Behavior Research Methods*, August 2021.  
+*Behavior Research Methods*, August 2021  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.3758/s13428-021-01623-4)
 
 * S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins.  
