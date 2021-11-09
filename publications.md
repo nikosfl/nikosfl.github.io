@@ -91,7 +91,7 @@ Diploma Thesis, National Technical University of Athens, April 2016
  March 2019
 
 ## Invited & Campus Talks 
-* *Towards Automated Large-Scale Evaluation of Psychotherapy* [![Slides](/img/slides_logo.png)](/work/presentations/2021_FGR_AutomatedPsychEvaluation.pdf)  
+* *Towards Automated Large-Scale Evaluation of Psychotherapy* [![Slides](/img/slides_logo.png)](/work/presentations/2021_FGR_AutomatedPsychEvaluation.pdf) [![Demo](/img/demo_logo.png)](/img/coreMI_session_view.mp4)  
 [Forensic Grand Rounds](https://www.ualberta.ca/psychiatry/grand-rounds/forensic-grand-rounds/index.html), Alberta Hospital Edmonton / University of Alberta  
 September 2021
 
