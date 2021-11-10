@@ -80,7 +80,7 @@ __Best Student Paper Nominee__
 
 ## Theses
 
-* N. Flemotomos__, 
+* N. Flemotomos, 
 "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)"    
 Diploma Thesis, National Technical University of Athens, April 2016 (*in Greek*)  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.26240/heal.ntua.12402) [![Slides](/img/slides_logo.png)](/work/presentations/2016_NTUA_thesis_pres.pdf)  
