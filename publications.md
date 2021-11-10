@@ -40,7 +40,7 @@ __Best Student Paper Nominee__
 
 * __N. Flemotomos__ & D. Dimitriadis.  
 "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](/work/papers/2020_ICASSP_RMC_MSR.pdf)"  
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Online, May 2020.  
+*International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Online, May 2020  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/ICASSP40776.2020.9053152) [![Slides](/img/slides_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_pres.pdf) [![Video](/img/video_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_vid.mp4) 
 
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan.  
