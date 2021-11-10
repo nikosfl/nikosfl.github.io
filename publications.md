@@ -10,12 +10,12 @@ use-site-title: true
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2021_CBT_local_estimates.pdf)"  
-2021 (*submitted*)
+*under review*, 2021
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
 "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
 *PLOS ONE*, October 2021  
-[![Poster](/img/poster_logo.png)](/work/presentations/2021_ECEfestival_BERT_CBT_poster.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1371/journal.pone.0258639)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1371/journal.pone.0258639) [![Poster](/img/poster_logo.png)](/work/presentations/2021_ECEfestival_BERT_CBT_poster.pdf) 
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan.   
 "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://rdcu.be/crPrw)"  
@@ -36,54 +36,54 @@ use-site-title: true
 "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)"  
 *Odyssey: The Speaker and Language Recognition Workshop*, Online, November 2020  
 __Best Student Paper Nominee__  
-[![Slides](/img/slides_logo.png)](/work/presentations/2020_ODYSSEY_Linguistically_Diarization_Roles_pres.pdf) [![Video](/img/video_logo.png)](/work/presentations/2020_ODYSSEY_Linguistically_Diarization_Roles_vid.mp4) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Odyssey.2020-17)  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Odyssey.2020-17) [![Slides](/img/slides_logo.png)](/work/presentations/2020_ODYSSEY_Linguistically_Diarization_Roles_pres.pdf) [![Video](/img/video_logo.png)](/work/presentations/2020_ODYSSEY_Linguistically_Diarization_Roles_vid.mp4)   
 
 * __N. Flemotomos__ & D. Dimitriadis.  
 "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](/work/papers/2020_ICASSP_RMC_MSR.pdf)"  
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Online, May 2020.  
-[![Slides](/img/slides_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_pres.pdf) [![Video](/img/video_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_vid.mp4) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/ICASSP40776.2020.9053152)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/ICASSP40776.2020.9053152) [![Slides](/img/slides_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_pres.pdf) [![Video](/img/video_logo.png)](/work/presentations/2020_ICASSP_RMC_MSR_vid.mp4) 
 
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan.  
 "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)"  
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2019-1903)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2019-1903)  
 
 * V.R. Martinez, __N. Flemotomos__, V. Ardulov, K. Somandepalli, S.B. Goldberg, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Identifying Therapist and Client Personae for Therapeutic Alliance Estimation](/work/papers/2019_IS_Personae_Alliance.pdf)"  
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Graz, Austria, September 2019  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2019-2829)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2019-2829)  
 
 * __N. Flemotomos__, P. Georgiou, D.C. Atkins & S. Narayanan.  
 "[Role Specific Lattice Rescoring for Speaker Role Recognition from Speech Recognition Outputs](/work/papers/2019_ICASSP_Role_Specific_ASR.pdf)"  
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brighton, United Kingdom, May 2019  
-[![Poster](/img/poster_logo.png)](/work/presentations/2019_ICASSP_Role_Specific_ASR_poster.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/ICASSP.2019.8683900)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/ICASSP.2019.8683900) [![Poster](/img/poster_logo.png)](/work/presentations/2019_ICASSP_Role_Specific_ASR_poster.pdf)  
 
 * __N. Flemotomos__, Z. Chen, D.C. Atkins & S. Narayanan.  
 "[Role Annotated Speech Recognition for Conversational Interactions](/work/papers/2018_SLT_RASR.pdf)"  
 *IEEE Workshop on Spoken Language Technology (SLT)*, Athens, Greece, December 2018  
-[![Poster](/img/poster_logo.png)](/work/presentations/2018_SLT_RASR_poster.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/SLT.2018.8639611)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/SLT.2018.8639611) [![Poster](/img/poster_logo.png)](/work/presentations/2018_SLT_RASR_poster.pdf)  
 
 * __N. Flemotomos__, P. Papadopoulos, J. Gibson & S. Narayanan.  
 "[Combined Speaker Clustering and Role Recognition in Conversational Speech](/work/papers/2018_IS_SpeakerClustering.pdf)"  
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018  
-[![Slides](/img/slides_logo.png)](/work/presentations/2018_IS_SpeakerClustering_pres.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-1654)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-1654) [![Slides](/img/slides_logo.png)](/work/presentations/2018_IS_SpeakerClustering_pres.pdf)  
 
 * __N. Flemotomos__, V. Martinez, J. Gibson, D.C. Atkins, T. Creed & S. Narayanan.  
 "[Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions](/work/papers/2018_IS_CBT_lang_features.pdf)"  
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018  
-[![Slides](/img/slides_logo.png)](/work/presentations/2018_IS_CBT_lang_features_pres.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-1518)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-1518) [![Slides](/img/slides_logo.png)](/work/presentations/2018_IS_CBT_lang_features_pres.pdf)  
 
 * K. Singla, Z. Chen, __N. Flemotomos__, J. Gibson, D. Can, D.C. Atkins & S. Narayanan.  
 "[Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy](/work/papers/2018_IS_multimodal_MISC.pdf)"  
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018  
-[![Poster](/img/poster_logo.png)](/work/presentations/2018_IS_multimodal_MISC_poster.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-2551)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-2551) [![Poster](/img/poster_logo.png)](/work/presentations/2018_IS_multimodal_MISC_poster.pdf)  
 
 ## Diploma Thesis (in Greek)
 
 * __N. Flemotomos__.  
 "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)"    
 Diploma Thesis, National Technical University of Athens, April 2016  
-[![Slides](/img/slides_logo.png)](/work/presentations/2016_NTUA_thesis_pres.pdf) [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.26240/heal.ntua.12402)
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.26240/heal.ntua.12402) [![Slides](/img/slides_logo.png)](/work/presentations/2016_NTUA_thesis_pres.pdf)  
 
 ## Other Manuscripts 
 * __N. Flemotomos__.  
