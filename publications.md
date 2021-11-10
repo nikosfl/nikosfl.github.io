@@ -78,11 +78,11 @@ __Best Student Paper Nominee__
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Hyderabad, India, September 2018  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.21437/Interspeech.2018-2551) [![Poster](/img/poster_logo.png)](/work/presentations/2018_IS_multimodal_MISC_poster.pdf)  
 
-## Diploma Thesis (in Greek)
+## Theses
 
-* __N. Flemotomos__.  
+* N. Flemotomos__, 
 "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)"    
-Diploma Thesis, National Technical University of Athens, April 2016  
+Diploma Thesis, National Technical University of Athens, April 2016 (*in Greek*)  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.26240/heal.ntua.12402) [![Slides](/img/slides_logo.png)](/work/presentations/2016_NTUA_thesis_pres.pdf)  
 
 ## Other Manuscripts 
