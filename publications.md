@@ -16,7 +16,7 @@ use-site-title: true
 "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
 *PLOS ONE*, October 2021  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1371/journal.pone.0258639) 
-<a href="javascript:showOrHide('cite_2021_PLOS_CBT_BERT');">![bibTeX](cite_logo.png)</a> 
+<a href="javascript:showOrHide('cite_2021_PLOS_CBT_BERT');">![bibTeX](/img/cite_logo.png)</a> 
 <div id="cite_2021_PLOS_CBT_BERT">
 <p><iframe src="/work/papers/citations/2021_PLOS_CBT_BERT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div> 
@@ -26,7 +26,7 @@ use-site-title: true
 "[Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies](https://rdcu.be/crPrw)"  
 *Behavior Research Methods*, August 2021  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.3758/s13428-021-01623-4) 
-<a href="javascript:showOrHide('cite_2021_BRM_Psychotherapy_Speech_Language');">![bibTeX](cite_logo.png)</a> 
+<a href="javascript:showOrHide('cite_2021_BRM_Psychotherapy_Speech_Language');">![bibTeX](/img/cite_logo.png)</a> 
 <div id="cite_2021_BRM_Psychotherapy_Speech_Language">
 <p><iframe src="/work/papers/citations/2021_BRM_Psychotherapy_Speech_Language.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
@@ -35,7 +35,7 @@ use-site-title: true
 "[Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case](/work/papers/2020_JCP_ML_NLP_Alliance.pdf)"  
 *Journal of Counseling Psychology*, July 2020  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1037/cou0000382) 
-<a href="javascript:showOrHide('cite_2020_JCP_ML_NLP_Alliance');">![bibTeX](cite_logo.png)</a> 
+<a href="javascript:showOrHide('cite_2020_JCP_ML_NLP_Alliance');">![bibTeX](/img/cite_logo.png)</a> 
 <div id="cite_2020_JCP_ML_NLP_Alliance">
 <p><iframe src="/work/papers/citations/2020_JCP_ML_NLP_Alliance.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
