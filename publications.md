@@ -4,6 +4,21 @@ title: Publications & Talks
 use-site-title: true
 ---
 
+<script type="text/javascript">
+function showOrHide(id) 
+{
+    var div = document.getElementById(id);
+    if (div.style.display == "block") 
+    {
+        div.style.display = "none";
+    }
+    else 
+    {
+        div.style.display = "block";
+    }
+}
+</script>
+
 ## Journals
 <!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
 -->
