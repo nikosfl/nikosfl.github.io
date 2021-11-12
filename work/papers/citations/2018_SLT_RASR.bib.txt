@@ -1,0 +1,7 @@
+@inproceedings{flemotomos18_slt_role,
+  author={Flemotomos, Nikolaos and Chen, Zhuohao and Atkins, David C. and Narayanan, Shrikanth},
+  booktitle={Proc. 2018 IEEE Spoken Language Technology Workshop (SLT)}, 
+  title={Role Annotated Speech Recognition for Conversational Interactions}, 
+  year={2018},
+  pages={1036-1043},
+  doi={10.1109/SLT.2018.8639611}}

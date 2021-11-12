@@ -1,0 +1,11 @@
+@article{goldberg20_jcp_machine,
+  title={Machine learning and natural language processing in psychotherapy research: Alliance as example use case},
+  author={Goldberg, Simon B and Flemotomos, Nikolaos and Martinez, Victor R and Tanana, Michael J and Kuo, Patty B and Pace, Brian T and Villatte, Jennifer L and Georgiou, Panayiotis G and Van Epps, Jake and Imel, Zac E and others},
+  journal={Journal of counseling psychology},
+  volume={67},
+  number={4},
+  pages={438--448},
+  year={2020},
+  publisher={American Psychological Association},
+  doi={10.1037/cou0000382}
+}

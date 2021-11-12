@@ -1,0 +1,8 @@
+@inproceedings{park19_interspeech_second,
+  author={Tae Jin Park and Manoj Kumar and Nikolaos Flemotomos and Monisankha Pal and Raghuveer Peri and Rimita Lahiri and Panayiotis Georgiou and Shrikanth Narayanan},
+  title={The Second {DIHARD} Challenge: System Description for {USC-SAIL} Team},
+  year=2019,
+  booktitle={Proc. Interspeech 2019},
+  pages={998--1002},
+  doi={10.21437/Interspeech.2019-1903}
+}

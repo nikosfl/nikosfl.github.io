@@ -1,0 +1,11 @@
+@article{flemotomos21_plosone_automated,
+  title={Automated quality assessment of cognitive behavioral therapy sessions through highly contextualized language representations},
+  author={Flemotomos, Nikolaos and Martinez, Victor R and Chen, Zhuohao and Creed, Torrey  and Atkins, David C.  and Narayanan, Shrikanth S.},
+  journal = {PLOS ONE},
+  publisher = {Public Library of Science},
+  Number = {10},
+  volume = {16},
+  pages = {e0258639},
+  year={2021},
+  doi={10.1371/journal.pone.0258639}
+}

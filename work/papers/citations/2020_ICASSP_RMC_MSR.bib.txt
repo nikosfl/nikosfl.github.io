@@ -1,0 +1,7 @@
+@inproceedings{flemotomos20_icassp_memory,
+  author={Flemotomos, Nikolaos and Dimitriadis, Dimitrios},
+  booktitle={Proc. 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={A Memory Augmented Architecture for Continuous Speaker Identification in Meetings}, 
+  year={2020},
+  pages={6524-6528},
+  doi={10.1109/ICASSP40776.2020.9053152}}

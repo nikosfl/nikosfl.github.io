@@ -1,0 +1,7 @@
+@article{flemotomos2021automated,
+  title={Automated Evaluation Of Psychotherapy Skills Using Speech And Language Technologies},
+  author={Flemotomos, Nikolaos and Martinez, Victor R and Chen, Zhuohao and Singla, Karan and Ardulov, Victor and Peri, Raghuveer and Caperton, Derek D and Gibson, James and Tanana, Michael J and Georgiou, Panayiotis and others},
+  journal={Behavior Research Methods},
+  year={2021},
+  doi={10.3758/s13428-021-01623-4}
+}

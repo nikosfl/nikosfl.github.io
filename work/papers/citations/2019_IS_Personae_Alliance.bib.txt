@@ -1,0 +1,8 @@
+@inproceedings{martinez19_interspeech_identifying,
+  author={Victor R. Martinez and Nikolaos Flemotomos and Victor Ardulov and Krishna Somandepalli and Simon B. Goldberg and Zac E. Imel and David C. Atkins and Shrikanth Narayanan},
+  title={Identifying Therapist and Client Personae for Therapeutic Alliance Estimation},
+  year=2019,
+  booktitle={Proc. Interspeech 2019},
+  pages={1901--1905},
+  doi={10.21437/Interspeech.2019-2829}
+}

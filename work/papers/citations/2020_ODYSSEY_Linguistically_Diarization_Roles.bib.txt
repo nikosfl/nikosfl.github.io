@@ -1,0 +1,8 @@
+@inproceedings{flemotomos20_odyssey_linguistically,
+  author={Nikolaos Flemotomos and Panayiotis Georgiou and Shrikanth Narayanan},
+  title={Linguistically Aided Speaker Diarization Using Speaker Role Information},
+  year=2020,
+  booktitle={Proc. The Speaker and Language Recognition Workshop (Odyssey 2020)},
+  pages={117--124},
+  doi={10.21437/Odyssey.2020-17}
+}

@@ -1,0 +1,7 @@
+@inproceeedings{flemotomos19_icassp_role,
+  author={Flemotomos, Nikolaos and Georgiou, Panayiotis and Atkins, David C. and Narayanan, Shrikanth},
+  booktitle={Proc. 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Role Specific Lattice Rescoring for Speaker Role Recognition from Speech Recognition Outputs}, 
+  year={2019},
+  pages={7330-7334},
+  doi={10.1109/ICASSP.2019.8683900}}

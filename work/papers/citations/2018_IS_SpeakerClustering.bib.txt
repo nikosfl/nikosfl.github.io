@@ -1,0 +1,8 @@
+@inproceedings{flemotomos18_interspeech_combined,
+  author={Nikolaos Flemotomos and Pavlos Papadopoulos and James Gibson and Shrikanth Narayanan},
+  title={Combined Speaker Clustering and Role Recognition in Conversational Speech},
+  year=2018,
+  booktitle={Proc. Interspeech 2018},
+  pages={1378--1382},
+  doi={10.21437/Interspeech.2018-1654}
+}
