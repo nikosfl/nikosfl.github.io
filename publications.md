@@ -58,7 +58,12 @@ function showOrHide(id)
 ## Conference & Workshop Proceedings
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](/work/papers/2021_EMBC_Feature_Fusion_CBT.pdf)"  
-*International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, Online, November 2021
+*International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, Online, November 2021  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1109/EMBC46164.2021.9629694) 
+<a href="javascript:showOrHide('cite_2021_EMBC_Feature_Fusion_CBT');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2021_EMBC_Feature_Fusion_CBT">
+<p><iframe src="/work/papers/citations/2021_EMBC_Feature_Fusion_CBT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div>
 
 * __N. Flemotomos__, P. Georgiou & S. Narayanan.  
 "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)"  
