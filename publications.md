@@ -20,12 +20,12 @@ function showOrHide(id)
 </script>
 
 ## Journals
-<!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *(submitted)*
+<!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *under review*, 2022
 -->
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2021_CBT_local_estimates.pdf)"  
-*under review*, 2021
+*under review*, 2022
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
 "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
