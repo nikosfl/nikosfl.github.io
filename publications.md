@@ -56,6 +56,9 @@ function showOrHide(id)
 </div>
 
 ## Conference & Workshop Proceedings
+<!-- * __N. Flemotomos__ & S. Narayanan. "Multimodal Clustering with Role Induced Constraints for Speaker Diarization". *under review*, 2022
+-->
+
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](/work/papers/2021_EMBC_Feature_Fusion_CBT.pdf)"  
 *International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, Online, November 2021  
@@ -161,7 +164,15 @@ __Best Student Paper Nominee__
 * N. Flemotomos, 
 "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)"    
 Diploma Thesis, National Technical University of Athens, April 2016 (*in Greek*)  
+Committee: Professors Petros Maragos (Chair), Alexandros Potamianos, Gerasimos Potamianos  
 [![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.26240/heal.ntua.12402) [![Slides](/img/slides_logo.png)](/work/presentations/2016_NTUA_thesis_pres.pdf)  
+
+<!-- * N. Flemotomos, 
+"[Extracting and Using Speaker Role Information in Speech Processing Applications](/work/thesis/PhD_Thesis_NF_USC.pdf)"    
+Ph.D. Dissertation, University of Southern California, May 2022   
+Committee: Professors Shrikanth Narayanan (Chair), Keith Jenkins, Maja Matarić  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/) [![Slides](/img/slides_logo.png)](/work/presentations/2022_USC_thesis_pres.pdf)  
+-->
 
 ## Other Manuscripts 
 * __N. Flemotomos__.  
