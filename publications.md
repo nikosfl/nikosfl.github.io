@@ -25,7 +25,7 @@ function showOrHide(id)
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2021_CBT_local_estimates.pdf)"  
-*under review*, 2022
+*Computer Speech & Language (in press)*, 2022
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
 "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
@@ -169,6 +169,10 @@ Diploma Thesis, National Technical University of Athens, April 2016 (*in Greek*)
  March 2019
 
 ## Invited & Campus Talks 
+* *Automated Quality Assessment of Cognitive Behavioral Therapy Sessions through Highly Contextualized Language Representations* [![Slides](/img/slides_logo.png)](/work/presentations/2022_TuringTalk_CBTEvaluation.pdf)  
+[Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/index.html), The Alan Turing Institute  
+March 2022
+
 * *Towards Automated Large-Scale Evaluation of Psychotherapy* [![Slides](/img/slides_logo.png)](/work/presentations/2021_FGR_AutomatedPsychEvaluation.pdf) [![Demo](/img/demo_logo.png)](/img/coreMI_session_view.mp4)  
 [Forensic Grand Rounds](https://www.ualberta.ca/psychiatry/grand-rounds/forensic-grand-rounds/index.html), Alberta Hospital Edmonton / University of Alberta  
 September 2021
