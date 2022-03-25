@@ -20,7 +20,9 @@ function showOrHide(id)
 </script>
 
 ## Journals
-<!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel. "The Silent Treatment?: Changes in patient emotional expression after silence". *under review*, 2022
+<!-- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
+"The Silent Treatment?: Changes in patient emotional expression after silence".   
+*under review*, 2022
 -->
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
@@ -56,7 +58,9 @@ function showOrHide(id)
 </div>
 
 ## Conference & Workshop Proceedings
-* __N. Flemotomos__ & S. Narayanan. "Multimodal Clustering with Role Induced Constraints for Speaker Diarization". *under review*, 2022
+* __N. Flemotomos__ & S. Narayanan.  
+"Multimodal Clustering with Role Induced Constraints for Speaker Diarization".   
+*under review*, 2022
 
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](/work/papers/2021_EMBC_Feature_Fusion_CBT.pdf)"  
