@@ -26,7 +26,7 @@ function showOrHide(id)
 -->
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
-"[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2021_CBT_local_estimates.pdf)"  
+"[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
 *Computer Speech & Language*, September 2022   
 [![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.csl.2022.101380) 
 <a href="javascript:showOrHide('cite_2022_CSL_Psychotherapy_LocalQuality');">![bibTeX](/img/cite_logo.png)</a> 
