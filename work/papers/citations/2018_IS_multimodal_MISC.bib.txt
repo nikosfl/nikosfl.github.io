@@ -1,8 +1,8 @@
 @inproceedings{singla18_interspeech_using,
-  author={Karan Singla and Zhuohao Chen and Nikolaos Flemotomos and James Gibson and Dogan Can and David Atkins and Shrikanth Narayanan},
+  author={Singla, Karan and Chen, Zhuohao and Flemotomos, Nikolaos and Gibson, James and Can, Dogan and Atkins, David C and Narayanan, Shrikanth},
   title={Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy},
   year=2018,
-  booktitle={Proc. Interspeech 2018},
+  booktitle={Proceedings of Interspeech 2018},
   pages={3413--3417},
   doi={10.21437/Interspeech.2018-2551}
 }

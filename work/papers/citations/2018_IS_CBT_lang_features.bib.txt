@@ -1,8 +1,8 @@
 @inproceedings{flemotomos18_interspeech_language,
-  author={Nikolaos Flemotomos and Victor Martinez and James Gibson and David Atkins and Torrey Creed and Shrikanth Narayanan},
+  author={Flemotomos, Nikolaos and Martinez, Victor R and Gibson, James and Atkins, David C and Creed, Torrey A and Narayanan, Shrikanth},
   title={Language Features for Automated Evaluation of Cognitive Behavior Psychotherapy Sessions},
-  year=2018,
-  booktitle={Proc. Interspeech 2018},
+  year={2018},
+  booktitle={Proceedings of Interspeech 2018},
   pages={1908--1912},
   doi={10.21437/Interspeech.2018-1518}
 }

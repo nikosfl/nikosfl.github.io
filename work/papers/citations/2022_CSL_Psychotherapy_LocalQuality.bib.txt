@@ -1,0 +1,10 @@
+@article{chen22_csl_automated,
+  title={An automated quality evaluation framework of psychotherapy conversations with local quality estimates},
+  author={Chen, Zhuohao and Flemotomos, Nikolaos and Singla, Karan and Creed, Torrey A. and Atkins, David C. and Narayanan, Shrikanth},
+  journal={Computer Speech \& Language},
+  year={2022},
+  volume={75},
+  pages={101380},
+  publisher={Elsevier},
+  doi={10.1016/j.csl.2022.101380}
+}
