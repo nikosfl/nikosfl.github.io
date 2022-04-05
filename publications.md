@@ -64,7 +64,7 @@ function showOrHide(id)
 
 ## Conference & Workshop Proceedings
 * __N. Flemotomos__ & S. Narayanan.  
-"Multimodal Clustering with Role Induced Constraints for Speaker Diarization".   
+"[Multimodal Clustering with Role Induced Constraints for Speaker Diarization](https://arxiv.org/pdf/2204.00657.pdf)"   
 *under review*, 2022
 
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan.  
