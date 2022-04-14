@@ -22,7 +22,7 @@ function showOrHide(id)
 ## Journals
  * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
 "The Silent Treatment?: Changes in Patient Emotional Expression after Silence"   
-*under review*, 2022
+*Counselling and Psychotherapy Research*, 2022 (accepted)
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
