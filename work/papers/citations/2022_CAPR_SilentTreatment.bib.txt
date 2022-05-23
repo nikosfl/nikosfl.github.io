@@ -1,0 +1,10 @@
+@article{chen22_csl_automated,
+  title={The silent treatment? Changes in patient emotional expression after silence},
+  author={Soma, Christina S. and Wampold, Bruce E. and Flemotomos, Nikolaos and Peri, Raguveer and Narayanan, Shrikanth and Atkins, David C. and Imel, Zac E.},
+  journal={Counselling and Psychotherapy Research},
+  year={2022},
+  volume={},
+  pages={},
+  publisher={Wiley},
+  doi={10.1002/capr.12537}
+}
