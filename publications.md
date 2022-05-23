@@ -20,10 +20,6 @@ function showOrHide(id)
 </script>
 
 ## Journals
- * C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
-"The Silent Treatment?: Changes in Patient Emotional Expression after Silence"   
-*Counselling and Psychotherapy Research*, 2022 (accepted)
-
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
 *Computer Speech & Language*, September 2022   
@@ -32,6 +28,15 @@ function showOrHide(id)
 <div style="display:none" id="cite_2022_CSL_Psychotherapy_LocalQuality">
 <p><iframe src="/work/papers/citations/2022_CSL_Psychotherapy_LocalQuality.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div> 
+
+* C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
+"[The Silent Treatment?: Changes in Patient Emotional Expression after Silence](https://onlinelibrary.wiley.com/share/author/EUJCBNEI4BCW4UFE7ZCW?target=10.1002/capr.12537)"    
+*Counselling and Psychotherapy Research*, May 2022  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1002/capr.12537)  
+<a href="javascript:showOrHide('cite_2022_CAPR_SilentTreatment');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2022_CAPR_SilentTreatment">
+<p><iframe src="/work/papers/citations/2022_CAPR_SilentTreatment.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div>  
 
 * __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
 "[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
