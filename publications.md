@@ -29,10 +29,10 @@ function showOrHide(id)
 <p><iframe src="/work/papers/citations/2022_CSL_Psychotherapy_LocalQuality.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div> 
 
-* C.S. Soma, B. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
-"[The Silent Treatment?: Changes in Patient Emotional Expression after Silence](https://onlinelibrary.wiley.com/share/author/EUJCBNEI4BCW4UFE7ZCW?target=10.1002/capr.12537)"    
+* C.S. Soma, B.E. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
+"[The Silent Treatment? Changes in Patient Emotional Expression after Silence](https://onlinelibrary.wiley.com/share/author/EUJCBNEI4BCW4UFE7ZCW?target=10.1002/capr.12537)"    
 *Counselling and Psychotherapy Research*, May 2022  
-[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1002/capr.12537)  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1002/capr.12537) 
 <a href="javascript:showOrHide('cite_2022_CAPR_SilentTreatment');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2022_CAPR_SilentTreatment">
 <p><iframe src="/work/papers/citations/2022_CAPR_SilentTreatment.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
@@ -174,10 +174,10 @@ __Best Student Paper Nominee__
 ## Theses
 
 * N. Flemotomos, 
-"[Extracting and Using Speaker Role Information in Speech Processing Applications](/work/thesis/PhD_Thesis_NF_USC.pdf)"    
+"Extracting and Using Speaker Role Information in Speech Processing Applications"    
 Ph.D. Dissertation, University of Southern California, August 2022   
 Committee: Professors Shrikanth Narayanan (Chair), Keith Jenkins, Maja Matarić  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/) [![Slides](/img/slides_logo.png)](/work/presentations/2022_USC_thesis_pres.pdf)  
+[![Slides](/img/slides_logo.png)](/work/presentations/2022_USC_thesis_pres.pdf)  
 
 * N. Flemotomos, 
 "[Robust Acoustic Features for Distant Speech Recognition](/work/thesis/Diploma_Thesis_NF_NTUA.pdf)"    
