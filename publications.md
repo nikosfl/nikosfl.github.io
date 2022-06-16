@@ -179,7 +179,7 @@ __Best Student Paper Nominee__
 ## Theses
 
 * N. Flemotomos, 
-"Extracting and Using Speaker Role Information in Speech Processing Applications"    
+"[Extracting and Using Speaker Role Information in Speech Processing Applications](/work/thesis/dissertation_NF_2022.pdf)"    
 Ph.D. Dissertation, University of Southern California, August 2022   
 Committee: Professors Shrikanth Narayanan (Chair), Keith Jenkins, Maja Matarić  
 [![Slides](/img/slides_logo.png)](/work/presentations/2022_USC_thesis_pres.pdf)  
