@@ -22,7 +22,7 @@ function showOrHide(id)
 ## Journals
 
 * C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
-"A machine learning approach to improve implementation monitoring of family-based preventive interventions in primary care"  
+"A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
 *under review*, 2022
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
