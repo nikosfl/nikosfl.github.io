@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <!-- ## Who I am -->
-I am a Machine Learning Researcher working with [Siri](https://www.apple.com/siri/) Speech at Apple.
+I am a Machine Learning Researcher / Engineer working with [Siri](https://www.apple.com/siri/) Speech at Apple.
 
 I obtained my PhD in Electrical Engineering from the University of Southern California, where I was working at the [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu), supervised by [Professor Shrikanth Narayanan](https://sail.usc.edu/people/shri.php). Prior to joining USC, I obtained my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I completed my thesis under the supervision of [Professor Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm). You can find some information on the projects I worked on as a student in my [Research & Projects](research) page or by reading some of my [publications](publications).
 
