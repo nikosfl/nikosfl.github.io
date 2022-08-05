@@ -74,7 +74,7 @@ function showOrHide(id)
 ## Conference & Workshop Proceedings
 * __N. Flemotomos__ & S. Narayanan.  
 "[Multimodal Clustering with Role Induced Constraints for Speaker Diarization](https://arxiv.org/pdf/2204.00657.pdf)"   
-*Annual Conference of the International Speech Communication Association (Interspeech)*, Incheon, Korea, September 2022  
+*Annual Conference of the International Speech Communication Association (Interspeech)*, Incheon, South Korea, September 2022  
 <a href="javascript:showOrHide('cite_2022_IS_Constrained_Clustering_Diarization');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2022_IS_Constrained_Clustering_Diarization">
 <p><iframe src="/work/papers/citations/2022_IS_Constrained_Clustering_Diarization.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
