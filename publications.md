@@ -76,7 +76,7 @@ function showOrHide(id)
 "[Multimodal Clustering with Role Induced Constraints for Speaker Diarization](https://arxiv.org/pdf/2204.00657.pdf)"   
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Incheon, South Korea, September 2022  
 <a href="javascript:showOrHide('cite_2022_IS_Constrained_Clustering_Diarization');">![bibTeX](/img/cite_logo.png)</a> 
-[![Poster](/img/poster_logo.png)](/work/presentations/2022_IS_MultimodalClusteringRoleInducedConstraints_poster.pdf)  
+[![Poster](/img/poster_logo.png)](/work/presentations/2022_IS_MultimodalClusteringRoleInducedConstraints_poster.pdf) 
 [![Slides](/img/slides_logo.png)](/work/presentations/2022_IS_MultimodalClusteringRoleInducedConstraints_pres.pdf) 
 [![Video](/img/video_logo.png)](/work/presentations/2022_IS_MultimodalClusteringRoleInducedConstraints_vid.mp4)  
 <div style="display:none" id="cite_2022_IS_Constrained_Clustering_Diarization">
