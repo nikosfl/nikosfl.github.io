@@ -2,7 +2,7 @@
   author={Flemotomos, Nikolaos and Narayanan, Shrikanth},
   title={Multimodal clustering with role induced constraints for speaker diarization},
   year=2022,
-  booktitle={Proceedings of Interspeech 2022 (to appear)},
-  pages={},
-  doi={}
+  booktitle={Proceedings of Interspeech 2022},
+  pages={5075--5079},
+  doi={10.21437/Interspeech.2022-814}
 }
