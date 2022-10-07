@@ -72,6 +72,10 @@ function showOrHide(id)
 </div>
 
 ## Conference & Workshop Proceedings
+* Z. Chen, __N. Flemotomos__, Z.E. Imel, D.C. Atkins & S. Narayanan.  
+"Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios"  
+*Findings of the Conference on Empirical Methods in Natural Lanaguage Processing (EMNLP)*, December 2022  
+
 * __N. Flemotomos__ & S. Narayanan.  
 "[Multimodal Clustering with Role Induced Constraints for Speaker Diarization](/work/papers/2022_IS_MultimodalClusteringRoleInducedConstraints.pdf)"   
 *Annual Conference of the International Speech Communication Association (Interspeech)*, Incheon, South Korea, September 2022  
