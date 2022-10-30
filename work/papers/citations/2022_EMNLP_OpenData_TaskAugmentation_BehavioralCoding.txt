@@ -1,0 +1,8 @@
+@inproceedings{chen22_emnlp_leveraging,
+  author={Chen, Zhuohao and Flemotomos, Nikolaos and Imel, Zac E. and Atkins, David C. and Narayanan, Shrikanth},
+  title={Leveraging open data and task augmentation to automated behavioralcoding of psychotherapy conversations in low-resource scenarios},
+  year=2022,
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022 (to appear)},
+  pages={},
+  doi={}
+}
