@@ -73,8 +73,12 @@ function showOrHide(id)
 
 ## Conference & Workshop Proceedings
 * Z. Chen, __N. Flemotomos__, Z.E. Imel, D.C. Atkins & S. Narayanan.  
-"Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios"  
+"[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](https://arxiv.org/pdf/2210.14254.pdf)"  
 *Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*, December 2022  
+<a href="javascript:showOrHide('cite_2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding');">![bibTeX](/img/cite_logo.png)</a>  
+<div style="display:none" id="cite_2022_IS_Constrained_Clustering_Diarization">
+<p><iframe src="/work/papers/citations/2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div>  
 
 * __N. Flemotomos__ & S. Narayanan.  
 "[Multimodal Clustering with Role Induced Constraints for Speaker Diarization](/work/papers/2022_IS_MultimodalClusteringRoleInducedConstraints.pdf)"   
