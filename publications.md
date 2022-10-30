@@ -189,7 +189,7 @@ __Best Student Paper Nominee__
 <a href="javascript:showOrHide('cite_2018_IS_multimodal_MISC');">![bibTeX](/img/cite_logo.png)</a> 
 [![Poster](/img/poster_logo.png)](/work/presentations/2018_IS_multimodal_MISC_poster.pdf)  
 <div style="display:none" id="cite_2018_IS_multimodal_MISC">
-<p><iframe src="/work/papers/citations/2018_IS_multimodal_MISCT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+<p><iframe src="/work/papers/citations/2018_IS_multimodal_MISC.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
 
 ## Theses
