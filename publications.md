@@ -21,9 +21,17 @@ function showOrHide(id)
 
 ## Journals
 
+* C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
+"That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
+*under review*  
+	
+* B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
+"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity"  
+*under review*
+    
 * C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
 "A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
-*under review*, 2022
+*under review*
 
 * Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
 "[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
