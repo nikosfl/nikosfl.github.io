@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatic Sleep Staging Using HMMs
-subtitle: or my 4 months in Czech Republic
+subtitle: did you sleep well last night?
 use-site-title: true
 permalink: research/sleep_staging
 involved: 2016
@@ -18,5 +18,5 @@ Example of hypnogram, assuming 5 sleep stages (including wakefulness).
 
 Towards this goal, I have developed an algorithm which exploits the "inner structure" of each sleep stage using Hidden Markov Models (HMMs). Under that viewpoint, we don't consider a sleep stage as a distinct entity, but we rather investigate how the characteristics of a single stage evolve over time and how this evolution is unique for each stage.
 
-<!-- last updated: 2021-11-07 -->
+<!-- last updated: 2023-01-01 -->
 
