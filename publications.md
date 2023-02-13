@@ -81,7 +81,7 @@ function showOrHide(id)
 
 ## Conference & Workshop Proceedings
 * Z. Chen, __N. Flemotomos__, Z.E. Imel, D.C. Atkins & S. Narayanan.  
-"[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](/work/papers/2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding.pdf)"  
+"[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](/work/papers/2022_EMNLP_OpenDataTaskAugmentationBehavioralCoding.pdf)"  
 *Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Abu Dhabi, United Arab Emirates, December 2022  
 [![DOI](/img/doi_logo_bw.png)](https://aclanthology.org/2022.findings-emnlp.425) 
 <a href="javascript:showOrHide('cite_2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding');">![bibTeX](/img/cite_logo.png)</a>  
