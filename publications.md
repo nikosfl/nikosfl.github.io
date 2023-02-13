@@ -25,9 +25,9 @@ function showOrHide(id)
 "That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
 *under review*  
 	
-* B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
+<!-- * B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
 "A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity"  
-*under review*
+*under review* -->
     
 * C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
 "A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
@@ -81,8 +81,9 @@ function showOrHide(id)
 
 ## Conference & Workshop Proceedings
 * Z. Chen, __N. Flemotomos__, Z.E. Imel, D.C. Atkins & S. Narayanan.  
-"[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](https://arxiv.org/pdf/2210.14254.pdf)"  
-*Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*, December 2022  
+"[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](/work/papers/2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding.pdf)"  
+*Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Abu Dhabi, United Arab Emirates, December 2022  
+[![DOI](/img/doi_logo_bw.png)](https://aclanthology.org/2022.findings-emnlp.425) 
 <a href="javascript:showOrHide('cite_2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding');">![bibTeX](/img/cite_logo.png)</a>  
 <div style="display:none" id="cite_2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding">
 <p><iframe src="/work/papers/citations/2022_EMNLP_OpenData_TaskAugmentation_BehavioralCoding.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
