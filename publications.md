@@ -21,17 +21,17 @@ function showOrHide(id)
 
 ## Journals
 
-* C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
+<!-- * C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
 "That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
-*under review*  
+*under review* --> 
 	
 <!-- * B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
 "A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity"  
 *under review* -->
     
-* C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
+<!-- * C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
 "A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
-*under review*
+*under review* --> 
 
 * C.S. Soma, B.E. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
 "[The Silent Treatment? Changes in Patient Emotional Expression after Silence](https://onlinelibrary.wiley.com/share/author/EUJCBNEI4BCW4UFE7ZCW?target=10.1002/capr.12537)"    
