@@ -1,10 +1,11 @@
-@article{soma22_capr_silent,
+@article{soma23_capr_silent,
   title={The silent treatment? Changes in patient emotional expression after silence},
   author={Soma, Christina S. and Wampold, Bruce E. and Flemotomos, Nikolaos and Peri, Raguveer and Narayanan, Shrikanth and Atkins, David C. and Imel, Zac E.},
   journal={Counselling and Psychotherapy Research},
-  year={2022},
-  volume={},
-  pages={},
+  year={2023},
+  volume={23},
+  number={2},
+  pages={378--388},
   publisher={Wiley},
   doi={10.1002/capr.12537}
 }
