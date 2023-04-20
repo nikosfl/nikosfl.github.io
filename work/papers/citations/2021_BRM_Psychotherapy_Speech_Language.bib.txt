@@ -1,4 +1,4 @@
-@article{flemotomos21_BRM_automated,
+@article{flemotomos22_BRM_automated,
   title={Automated evaluation of psychotherapy skills using speech and language technologies},
   author={Flemotomos, Nikolaos and Martinez, Victor R and Chen, Zhuohao and Singla, Karan and Ardulov, Victor and Peri, Raghuveer and Caperton, Derek D and Gibson, James and Tanana, Michael J and Georgiou, Panayiotis and Van Epps, Jake and Lord, Sarah P and Hirsch, Tad and Imel, Zac E and Atkins, David C and Narayanan, Shrikanth},
   journal={Behavior Research Methods},
