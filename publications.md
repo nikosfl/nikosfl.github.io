@@ -35,7 +35,7 @@ function showOrHide(id)
 
 * C.S. Soma, B.E. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
 "[The Silent Treatment? Changes in Patient Emotional Expression after Silence](https://onlinelibrary.wiley.com/share/author/EUJCBNEI4BCW4UFE7ZCW?target=10.1002/capr.12537)"    
-*Counselling and Psychotherapy Research*, April 2023  
+*Counselling and Psychotherapy Research*, June 2023  
 [![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1002/capr.12537) 
 <a href="javascript:showOrHide('cite_2022_CAPR_SilentTreatment');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2022_CAPR_SilentTreatment">
