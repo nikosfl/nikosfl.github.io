@@ -1,0 +1,12 @@
+@article{woerd23_jvoice_machine,
+  title={A machine-learning algorithm for the automated perceptual evaluation of dysphonia severity},
+  author={van der Woerd, Benjamin and Chen, Zhuohao and Flemotomos, Nikolaos and Oljaca, Maria and Timmons Sund, Lauren and Narayanan, Srikanth and Johns, Michael M. III.},
+  journal={Journal of Voice},
+  year={2023},
+  volume={},
+  number={},
+  pages={in press},
+  publisher={},
+  doi={}
+}
+
