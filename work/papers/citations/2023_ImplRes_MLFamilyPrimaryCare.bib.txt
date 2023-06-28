@@ -1,0 +1,12 @@
+@article{berkel23_implres_machine,
+  title={A machine learning approach to improve implementation monitoring of family-based preventive interventions in primary care},
+  author={Berkel, Cady and Knox, Dillon and Flemotomos, Nikolaos and Martinez, Victor R and Atkins, David C and Narayanan, Shrikanth and Alonso, Liz and Gallo, Carlos G and Smith, J.D.},
+  journal={Implementation Research and Practice},
+  year={2023},
+  volume={},
+  number={},
+  pages={in press},
+  publisher={},
+  doi={}
+}
+
