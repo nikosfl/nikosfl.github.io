@@ -25,9 +25,13 @@ function showOrHide(id)
 "That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
 *under review* --> 
     
-<!-- * C. Berkel, D.C. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S. Narayanan, L.A. Rodriguez, C.G. Carlos & J.D. Smith.  
+* C. Berkel, D. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S.S. Narayanan, L. Alonso, C.G. Gallo & J.D. Smith.  
 "A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
-*under review* --> 
+*Implementation Research and Practice*, in press  
+<a href="javascript:showOrHide('cite_2023_ImplRes_MLFamilyPrimaryCare');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2023_ImplRes_MLFamilyPrimaryCare">
+<p><iframe src="/work/papers/citations/2023_ImplRes_MLFamilyPrimaryCare.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div> 
 
 * B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
 "A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity"  
