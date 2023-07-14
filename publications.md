@@ -34,8 +34,9 @@ function showOrHide(id)
 </div> 
 
 * B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
-"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity"  
-*Journal of Voice*, in press  
+"[A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity](/work/papers/2023_JVoice_MLDyshoniaSeverity.pdf)"  
+*Journal of Voice*, July 2023  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.jvoice.2023.06.006) 
 <a href="javascript:showOrHide('cite_2023_JVoice_MLDysphoniaSeverity');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2023_JVoice_MLDysphoniaSeverity">
 <p><iframe src="/work/papers/citations/2023_JVoice_MLDysphoniaSeverity.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
