@@ -6,7 +6,7 @@
   volume={},
   number={},
   pages={in press},
-  publisher={},
-  doi={}
+  publisher={Elsevier},
+  doi={10.1016/j.jvoice.2023.06.006}
 }
 
