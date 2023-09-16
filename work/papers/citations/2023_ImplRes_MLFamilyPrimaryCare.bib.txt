@@ -3,10 +3,10 @@
   author={Berkel, Cady and Knox, Dillon and Flemotomos, Nikolaos and Martinez, Victor R and Atkins, David C and Narayanan, Shrikanth and Alonso, Liz and Gallo, Carlos G and Smith, J.D.},
   journal={Implementation Research and Practice},
   year={2023},
-  volume={},
+  volume={4},
   number={},
-  pages={in press},
-  publisher={},
-  doi={}
+  pages={},
+  publisher={Sage},
+  doi={10.1177/26334895231187906}
 }
 
