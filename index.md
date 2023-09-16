@@ -8,7 +8,9 @@ use-site-title: true
 <!-- ## Who I am -->
 I am a Machine Learning Researcher / Engineer working with [Siri](https://www.apple.com/siri/) Speech at Apple.
 
-I obtained my PhD in Electrical Engineering from the University of Southern California, where I was working at the [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu), supervised by [Professor Shrikanth Narayanan](https://sail.usc.edu/people/shri.php). Prior to joining USC, I obtained my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I completed my thesis under the supervision of [Professor Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm). You can find some information on the projects I worked on as a student in my [Research & Projects](research) page or by reading some of my [publications](publications).
+I obtained my PhD in Electrical Engineering from the University of Southern California, where I was working at the [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu), supervised by [Professor Shrikanth Narayanan](https://sail.usc.edu/people/shri.php). Prior to joining USC, I obtained my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I completed my thesis under the supervision of [Professor Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm). 
+
+<!-- You can find some information on the projects I worked on as a student in my [Research & Projects](research) page or by reading some of my [publications](publications). -->
 
 <!-- My main research interests include Speech Processing and Recognition, Speaker Diarization and Identification, and Machine Learning in social computing and healthcare. -->
 
@@ -21,4 +23,4 @@ I like to spend my free time either hiking a trail or riding my bike. Whenever I
 <!-- I like to spend my free time hiking a trail, riding my bike, or... jumping out of planes. -->
 <!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
 
-If you are interested in finding out more about me and what I have done in the past, you can check out [my CV](cv).
+<!-- If you are interested in finding out more about me and what I have done in the past, you can check out [my CV](cv). -->
