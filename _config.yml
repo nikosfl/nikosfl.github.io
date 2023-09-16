@@ -28,12 +28,12 @@ description: Welcome to my universe.
 navbar-links:
   Home: "index"
   Publications: "publications"
-  Projects: "research"
+  #Projects: "research"
   #Projects:
   #  - Siamese Convolutional Architectures for Speaker Change Detection: "https://nikosfl.github.io/sc-scd"
-  Coursework: "courses"
+  #Coursework: "courses"
   #CV: resume/NF_cv.pdf
-  CV: cv
+  #CV: cv
   Traveling: "travel"
   #Contact: "contact"
   #About Me: "aboutme"
