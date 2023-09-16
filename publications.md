@@ -26,8 +26,9 @@ function showOrHide(id)
 *under review* --> 
     
 * C. Berkel, D. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S.S. Narayanan, L. Alonso, C.G. Gallo & J.D. Smith.  
-"A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care"  
-*Implementation Research and Practice*, in press  
+"[A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care](/work/papers/2023_ImplRes_MLFamilyPrimaryCare.pdf)"  
+*Implementation Research and Practice*, July 2023  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1177/26334895231187906) 
 <a href="javascript:showOrHide('cite_2023_ImplRes_MLFamilyPrimaryCare');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2023_ImplRes_MLFamilyPrimaryCare">
 <p><iframe src="/work/papers/citations/2023_ImplRes_MLFamilyPrimaryCare.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
