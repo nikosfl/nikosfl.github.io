@@ -24,6 +24,10 @@ function showOrHide(id)
 <!-- * C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
 "That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
 *under review* --> 
+
+* B. van der Woerd, Z. Chen, __N. Flemotomos__, L. Timmons-Sund, M.E. Castro, F. Farrokhyar, S. Narayanan & M.M. Johns III.  
+"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Voice Samples"
+*under review*  
     
 * C. Berkel, D. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S.S. Narayanan, L. Alonso, C.G. Gallo & J.D. Smith.  
 "[A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care](/work/papers/2023_ImplRes_MLFamilyPrimaryCare.pdf)"  
