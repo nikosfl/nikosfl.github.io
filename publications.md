@@ -19,14 +19,16 @@ function showOrHide(id)
 }
 </script>
 
-## Journals
+## Journals and Conference Proceedings
+
+### 2023
 
 <!-- * C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
 "That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
 *under review* --> 
 
 * B. van der Woerd, Z. Chen, __N. Flemotomos__, L. Timmons-Sund, M.E. Castro, F. Farrokhyar, S. Narayanan & M.M. Johns III.  
-"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Voice Samples"
+"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Voice Samples"   
 *under review*  
     
 * C. Berkel, D. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S.S. Narayanan, L. Alonso, C.G. Gallo & J.D. Smith.  
@@ -56,44 +58,8 @@ function showOrHide(id)
 <p><iframe src="/work/papers/citations/2022_CAPR_SilentTreatment.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div> 
 
-* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
-"[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
-*Computer Speech & Language*, September 2022   
-[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.csl.2022.101380) 
-<a href="javascript:showOrHide('cite_2022_CSL_Psychotherapy_LocalQuality');">![bibTeX](/img/cite_logo.png)</a> 
-<div style="display:none" id="cite_2022_CSL_Psychotherapy_LocalQuality">
-<p><iframe src="/work/papers/citations/2022_CSL_Psychotherapy_LocalQuality.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-</div>  
+### 2022 
 
-* __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan.   
-"[Automated Evaluation of Psychotherapy Skills Using Speech and Language Technologies](https://rdcu.be/crPrw)"  
-*Behavior Research Methods*, April 2022  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.3758/s13428-021-01623-4) 
-<a href="javascript:showOrHide('cite_2021_BRM_Psychotherapy_Speech_Language');">![bibTeX](/img/cite_logo.png)</a> 
-<div style="display:none" id="cite_2021_BRM_Psychotherapy_Speech_Language">
-<p><iframe src="/work/papers/citations/2021_BRM_Psychotherapy_Speech_Language.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-</div> 
-
-* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
-"[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
-*PLOS ONE*, October 2021  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1371/journal.pone.0258639) 
-<a href="javascript:showOrHide('cite_2021_PLOS_CBT_BERT');">![bibTeX](/img/cite_logo.png)</a> 
-[![Poster](/img/poster_logo.png)](/work/presentations/2021_ECEfestival_BERT_CBT_poster.pdf) 
-<div style="display:none" id="cite_2021_PLOS_CBT_BERT">
-<p><iframe src="/work/papers/citations/2021_PLOS_CBT_BERT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-</div> 
-
-* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins.  
-"[Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case](/work/papers/2020_JCP_ML_NLP_Alliance.pdf)"  
-*Journal of Counseling Psychology*, July 2020  
-[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1037/cou0000382) 
-<a href="javascript:showOrHide('cite_2020_JCP_ML_NLP_Alliance');">![bibTeX](/img/cite_logo.png)</a> 
-<div style="display:none" id="cite_2020_JCP_ML_NLP_Alliance">
-<p><iframe src="/work/papers/citations/2020_JCP_ML_NLP_Alliance.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-</div>
-
-## Conference & Workshop Proceedings
 * Z. Chen, __N. Flemotomos__, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios](/work/papers/2022_EMNLP_OpenDataTaskAugmentationBehavioralCoding.pdf)"  
 *Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Abu Dhabi, United Arab Emirates, December 2022  
@@ -115,6 +81,26 @@ function showOrHide(id)
 <p><iframe src="/work/papers/citations/2022_IS_Constrained_Clustering_Diarization.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>  
 
+* Z. Chen, __N. Flemotomos__, K. Singla, T.A. Creed, D.C. Atkins & S. Narayanan.   
+"[An Automated Quality Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates](/work/papers/2022_CSL_Psychotherapy_LocalQuality.pdf)"  
+*Computer Speech & Language*, September 2022   
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.csl.2022.101380) 
+<a href="javascript:showOrHide('cite_2022_CSL_Psychotherapy_LocalQuality');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2022_CSL_Psychotherapy_LocalQuality">
+<p><iframe src="/work/papers/citations/2022_CSL_Psychotherapy_LocalQuality.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div>  
+
+* __N. Flemotomos__, V.R. Martinez, Z. Chen, K. Singla, V. Ardulov, R. Peri, D. Caperton, J. Gibson, M.J. Tanana, P. Georgiou, J. Van Epps, S.P. Lord, T. Hirsch, Z.E. Imel, D.C. Atkins & S. Narayanan.   
+"[Automated Evaluation of Psychotherapy Skills Using Speech and Language Technologies](https://rdcu.be/crPrw)"  
+*Behavior Research Methods*, April 2022  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.3758/s13428-021-01623-4) 
+<a href="javascript:showOrHide('cite_2021_BRM_Psychotherapy_Speech_Language');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2021_BRM_Psychotherapy_Speech_Language">
+<p><iframe src="/work/papers/citations/2021_BRM_Psychotherapy_Speech_Language.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div> 
+
+### 2021
+
 * Z. Chen, __N. Flemotomos__, V. Ardulov, T.A. Creed, Z.E. Imel, D.C. Atkins & S. Narayanan.  
 "[Feature Fusion Strategies for End-to-End Evaluation of Cognitive Behavior Therapy Sessions](/work/papers/2021_EMBC_Feature_Fusion_CBT.pdf)"  
 *International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, Online, November 2021  
@@ -123,6 +109,18 @@ function showOrHide(id)
 <div style="display:none" id="cite_2021_EMBC_Feature_Fusion_CBT">
 <p><iframe src="/work/papers/citations/2021_EMBC_Feature_Fusion_CBT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
+
+* __N. Flemotomos__, V.R. Martinez, Z. Chen, T.A. Creed, D.C. Atkins & S. Narayanan.  
+"[Automated Quality Assessment of Cognitive Behavioral Therapy Sessions through Highly Contextualized Language Representations](/work/papers/2021_PLOS_CBT_BERT.pdf)"  
+*PLOS ONE*, October 2021  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1371/journal.pone.0258639) 
+<a href="javascript:showOrHide('cite_2021_PLOS_CBT_BERT');">![bibTeX](/img/cite_logo.png)</a> 
+[![Poster](/img/poster_logo.png)](/work/presentations/2021_ECEfestival_BERT_CBT_poster.pdf) 
+<div style="display:none" id="cite_2021_PLOS_CBT_BERT">
+<p><iframe src="/work/papers/citations/2021_PLOS_CBT_BERT.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div> 
+
+### 2020
 
 * __N. Flemotomos__, P. Georgiou & S. Narayanan.  
 "[Linguistically Aided Speaker Diarization Using Speaker Role Information](/work/papers/2020_ODYSSEY_Linguistically_Diarization_Roles.pdf)"  
@@ -136,6 +134,15 @@ __Best Student Paper Nominee__
 <p><iframe src="/work/papers/citations/2020_ODYSSEY_Linguistically_Diarization_Roles.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
 
+* S.B. Goldberg, __N. Flemotomos__, V.R. Martinez, M. Tanana, P. Kuo, B.T. Pace, J.L. Villatte, P. Georgiou, J. Van Epps, Z.E. Imel, S. Narayanan & D.C. Atkins.  
+"[Machine Learning and Natural Language Processing in Psychotherapy Research: Alliance as Example Use Case](/work/papers/2020_JCP_ML_NLP_Alliance.pdf)"  
+*Journal of Counseling Psychology*, July 2020  
+[![DOI](/img/doi_logo_bw.png)](http://dx.doi.org/10.1037/cou0000382) 
+<a href="javascript:showOrHide('cite_2020_JCP_ML_NLP_Alliance');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2020_JCP_ML_NLP_Alliance">
+<p><iframe src="/work/papers/citations/2020_JCP_ML_NLP_Alliance.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div>
+
 * __N. Flemotomos__ & D. Dimitriadis.  
 "[A Memory Augmented Architecture for Continuous Speaker Identification in Meetings](/work/papers/2020_ICASSP_RMC_MSR.pdf)"  
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Online, May 2020  
@@ -146,6 +153,10 @@ __Best Student Paper Nominee__
 <div style="display:none" id="cite_2020_ICASSP_RMC_MSR">
 <p><iframe src="/work/papers/citations/2020_ICASSP_RMC_MSR.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
+
+<!-- ## Conference & Workshop Proceedings --> 
+
+### 2019
 
 * T.J. Park, M. Kumar, __N. Flemotomos__, M. Pal, R. Peri, R. Lahiri, P. Georgiou & S. Narayanan.  
 "[The Second DIHARD Challenge: System Description for USC-SAIL Team](/work/papers/2019_IS_DIHARD.pdf)"  
@@ -174,6 +185,8 @@ __Best Student Paper Nominee__
 <div style="display:none" id="cite_2019_ICASSP_Role_Specific_ASR">
 <p><iframe src="/work/papers/citations/2019_ICASSP_Role_Specific_ASR.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div>
+
+### 2018 
 
 * __N. Flemotomos__, Z. Chen, D.C. Atkins & S. Narayanan.  
 "[Role Annotated Speech Recognition for Conversational Interactions](/work/papers/2018_SLT_RASR.pdf)"  
