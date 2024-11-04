@@ -21,6 +21,13 @@ function showOrHide(id)
 
 ## Journals and Conference Proceedings
 
+### 2024 
+
+* __N. Flemotomos__$^\*$, R. Hsiao$^\*$, P. Swietojanski$^\*$, T. Hori, D. Can & X. Zhuang.  
+"[Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval](https://arxiv.org/pdf/2411.00664)"   
+*under review*  
+$^\*$*equal contribution*
+
 ### 2023
 
 <!-- * C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
