@@ -27,6 +27,6 @@ and here is a 30% summary of the short film [Losses](https://www.youtube.com/wat
 
 Note that the system implemented exploits only the visual stream of information, so you probably want to mute the videos to really understand the segments that the algorithm identified as salient.
 
-If you are interested in the specific methodology, the theoretical background, and the comparative results - and you know Greek - you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
+If you are interested in the specific methodology, the theoretical background, and the comparative results---and you know Greek---you can read my [report](/work/classes/projects/eksaminiaia_video.pdf).
 
 <!-- last updated: 2018-09-27 -->
