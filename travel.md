@@ -15,7 +15,7 @@ bigimg:
  - "/img/IMG_1923.JPG": Yelapa, Mexico
  - "/img/IMG_1853.JPG": Madrid, New Mexico, USA
  - "/img/IMG_7565.JPG": Seoul, South Korea
- - "/img/IMG_5481.heic": Lisbon, Portugala
+ - "/img/IMG_5481.heic": Lisbon, Portugal
 ---
 
 <!--
