@@ -5,21 +5,27 @@ use-site-title: true
 bigimg: 
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
- - "/img/canyonlands.jpg": Canyonlands National Park, USA
- - "/img/tikal.jpg": Tikal, Guatemala
+ - "/img/canyonlands.jpg": Canyonlands National Park, Utah, USA
  - "/img/tres_ojos.jpg": Los Tres Ojos National Park, Dominican Republic
- - "/img/luxembourg.jpg": Luxembourg City, Luxembourg
- - "/img/chania.jpg": Chania, Greece
- - "/img/key_biscayne.jpg": Key Biscayne, USA
  - "/img/cesky.jpg": Cesky Krumlov, Czech Republic
- - "/img/cascades.jpg": North Cascades National Park, USA
- - "/img/hyderabad.jpg": Hyderabad, India
+ - "/img/cascades.jpg": North Cascades National Park, Washington, USA
  - "/img/acatenango.jpg": Volcano Acatenango, Guatemala
  - "/img/teotihuacan.jpg": Teotihuacan, Mexico
  - "/img/manuel_antonio.jpg": Manuel Antonio, Costa Rica
- - "/img/rome.jpg": Rome, Italy
- - "/img/keukenhof.jpg": Keukenhof, Netherlands
+ - "/img/IMG_5195.JPG": King Cove, Alaska, USA
+ - "/img/IMG_1923.JPG": Yelapa, Mexico
+ - "/img/IMG_1853.JPG": Madrid, New Mexico, USA
 ---
+
+<!--
+- "/img/tikal.jpg": Tikal, Guatemala
+- "/img/luxembourg.jpg": Luxembourg City, Luxembourg
+- "/img/chania.jpg": Chania, Greece
+- "/img/key_biscayne.jpg": Key Biscayne, USA
+- "/img/hyderabad.jpg": Hyderabad, India
+- "/img/rome.jpg": Rome, Italy
+- "/img/keukenhof.jpg": Keukenhof, Netherlands
+-->
 
 <!-- Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! Maybe at some point I will create a travel blog sharing my travel adventures, but until then, here are the places I 've been so far. Hopefully more pins will keep being added... -->
 
