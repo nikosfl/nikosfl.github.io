@@ -20,7 +20,7 @@ Prior to joining USC, I obtained my Diploma in Electrical and Computer Engineeri
 <!-- ## What I am doing (and have done) -->
 <!-- You can find my CV [here](/resume/NF_cv.pdf) and my one-page resume [here](assets/NF_resume.pdf). -->  
 
-I like to spend my free time either hiking a trail or riding my bike. Whenever I have some more time - or just whenever my travel bug kicks in - I pack a few clothes and go [discover a new city, country, or continent](travel). 
+I like to spend my free time either hiking a trail or riding my bike. Whenever I have some more time---or just whenever my travel bug kicks in---I pack a few clothes and go [discover a new city, country, or continent](travel). 
 <!-- I like to spend my free time hiking a trail, riding my bike, or... jumping out of planes. -->
 <!-- If you want some inspiration you can check out my [Traveling](travel) page. -->
 
