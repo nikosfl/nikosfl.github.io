@@ -6,7 +6,6 @@ bigimg:
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
  - "/img/canyonlands.jpg": Canyonlands National Park, Utah, USA
- - "/img/tres_ojos.jpg": Los Tres Ojos National Park, Dominican Republic
  - "/img/cesky.jpg": Cesky Krumlov, Czech Republic
  - "/img/cascades.jpg": North Cascades National Park, Washington, USA
  - "/img/acatenango.jpg": Volcano Acatenango, Guatemala
@@ -16,6 +15,8 @@ bigimg:
  - "/img/IMG_1853.JPG": Madrid, New Mexico, USA
  - "/img/IMG_7565.JPG": Seoul, South Korea
  - "/img/IMG_5481.heic": Lisbon, Portugal
+ - "/img/IMG_8464.JPG": St. John, US Virgin Islands, USA
+ - "/img/IMG_20191130_151557650.jpg": Las Galeras, Dominican Republic
 ---
 
 <!--
@@ -27,6 +28,7 @@ bigimg:
 - "/img/rome.jpg": Rome, Italy
 - "/img/keukenhof.jpg": Keukenhof, Netherlands
 - "/img/IMG_5195.JPG": King Cove, Alaska, USA
+- "/img/tres_ojos.jpg": Los Tres Ojos National Park, Dominican Republic
 -->
 
 <!-- Have you ever caught yourself staring at a world map making detailed plans about your imaginary trips? Maybe checking flight prices to random countries because you never know when you 'll find a good deal? If yes, I 'm happy I 'm not alone. If no, welcome to my world! Maybe at some point I will create a travel blog sharing my travel adventures, but until then, here are the places I 've been so far. Hopefully more pins will keep being added... -->
