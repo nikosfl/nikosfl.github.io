@@ -17,6 +17,8 @@ bigimg:
  - "/img/IMG_5481.heic": Lisbon, Portugal
  - "/img/IMG_8464.JPG": St. John, US Virgin Islands, USA
  - "/img/IMG_20191130_151557650.jpg": Las Galeras, Dominican Republic
+ - "/img/IMG_0316.HEIC": Dalton Highway, Alaska, USA
+ - "/img/IMG_2398.heic": Mayo County, Ireland 
 ---
 
 <!--
