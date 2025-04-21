@@ -7,7 +7,7 @@ permalink: research/asr_adaptation
 involved: 2021 & 2024-2025
 ---
 
-Automatic Speech Recognition (ASR) is the process of automatically getting the textual information that the raw audio signal is carrying, thus essentially converting speech to text. With the technological advances of the last few years, and especially with the advent of deep learning, machines can achieve remarkable results for the task, especially under relatively clean conditions. Additionally, even though traditionally ASR relies on convoluted architectures involving several different modules and components,
+Automatic speech recognition (ASR) is the process of automatically getting the textual information that the raw audio signal is carrying, thus essentially converting speech to text. With the technological advances of the last few years, and especially with the advent of deep learning, machines can achieve remarkable results for the task, especially under relatively clean conditions. Additionally, even though traditionally ASR relies on convoluted architectures involving several different modules and components,
 nowadays end-to-end solutions are successfully employed.
 
 <p align="center">
@@ -27,7 +27,7 @@ Adaptation tries to compensate for the potential mismatch between training and t
 <!-- Even though there has been a considerable amount of research on the topic of speaker (or accent/domain) adaptation for traditional ASR systems yielding significant performance improvements, this is still a relatively under-explored topic in the context of end-to-end ASR.-->
 One direction for personalization is adaptation of ASR models to the particular speaker's acoustic characteristics. 
 This is precisely the area I was working on during my 2021 summer internship at Apple, as a member of the Siri ASR R&D team. <!--mentored by Dr. Ruchir Travadi and supervised by Dr. Arnab Ghoshal.--> 
-After returning to Apple as a full-time employee, another problem - still falling under the umbrella of personalization - that the team has been trying to tackle is the recognition of speaker-specific entities, such as contact names, entries of media libraries, etc. 
+After returning to Apple as a full-time employee, another problem---still falling under the umbrella of personalization---that the team has been trying to tackle is the recognition of speaker-specific entities, such as contact names, entries of media libraries, etc. 
 To address this problem, [here](https://arxiv.org/pdf/2411.00664) we propose a computationally efficient algorithm to accurately retrieve relevant entries within the framework of neural contextual biasing. 
 
 <!--Siri is the intelligent voice assistant that offers an easier and more naturalistic way to get things done on Apple devices. 
