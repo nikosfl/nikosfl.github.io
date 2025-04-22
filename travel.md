@@ -3,7 +3,6 @@ layout: page
 title:  
 use-site-title: true
 bigimg:
-<!--
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
  - "/img/canyonlands.jpg": Canyonlands National Park, Utah, USA
@@ -20,7 +19,7 @@ bigimg:
  - "/img/IMG_20191130_151557650.jpg": Las Galeras, Dominican Republic
  - "/img/IMG_0316.HEIC": Dalton Highway, Alaska, USA
  - "/img/DSCN4692.JPG": Bruges, Belgium
- - "/img/IMG_4497.HEIC": Zakynthos, Greece-->
+ - "/img/IMG_4497.HEIC": Zakynthos, Greece
  - "/img/DSCN9636.JPG": Annecy, France
  - "/img/IMG_3985.heic": Chicago, Illinois, USA
 ---
