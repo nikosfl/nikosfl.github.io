@@ -20,6 +20,7 @@ bigimg:
  - "/img/IMG_0316.HEIC": Dalton Highway, Alaska, USA
  - "/img/DSCN4692.JPG": Bruges, Belgium
  - "/img/IMG_4497.HEIC": Zakynthos, Greece
+ - "/img/DSCN9636.JPG": Annecy, France
 ---
 
 <!--
