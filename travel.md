@@ -3,15 +3,6 @@ layout: page
 title:  
 use-site-title: true
 bigimg:
- - "/img/IMG_9874.JPG": Washington DC, USA
- - "/img/IMG_1082.JPG": Acadia National Park, Maine, USA
----
-
-<!--
-layout: page
-title:  
-use-site-title: true
-bigimg:
  - "/img/sri_lanka.jpg": Ramboda, Sri Lanka
  - "/img/IMG_20190520_095228265_HDR.jpg": San Blas Islands, Panama
  - "/img/canyonlands.jpg": Canyonlands National Park, Utah, USA
@@ -31,6 +22,18 @@ bigimg:
  - "/img/IMG_4497.jpg": Zakynthos, Greece
  - "/img/IMG_3985.jpg": Chicago, Illinois, USA
  - "/img/DSCN9636.JPG": Annecy, France
+ - "/img/IMG_3985.jpg": Chicago, Illinois, USA
+ - "/img/IMG_1082.JPG": Acadia National Park, Maine, USA
+ - "/img/IMG_9874.JPG": Washington DC, USA
+---
+
+<!--
+layout: page
+title:  
+use-site-title: true
+bigimg:
+ - "/img/IMG_3985.jpg": Chicago, Illinois, USA
+ - "/img/IMG_1082.JPG": Acadia National Park, Maine, USA
 -->
 
 <!--
