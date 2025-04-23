@@ -3,12 +3,11 @@ layout: page
 title:  
 use-site-title: true
 bigimg:
- - "/img/IMG_3985.jpg": Chicago, Illinois, USA
+ - "/img/IMG_9874.JPG": Washington DC, USA
  - "/img/IMG_1082.JPG": Acadia National Park, Maine, USA
 ---
 
 <!--
----
 layout: page
 title:  
 use-site-title: true
@@ -32,7 +31,6 @@ bigimg:
  - "/img/IMG_4497.jpg": Zakynthos, Greece
  - "/img/IMG_3985.jpg": Chicago, Illinois, USA
  - "/img/DSCN9636.JPG": Annecy, France
----
 -->
 
 <!--
