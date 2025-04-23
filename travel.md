@@ -14,13 +14,13 @@ bigimg:
  - "/img/IMG_1923.JPG": Yelapa, Mexico
  - "/img/IMG_1853.JPG": Madrid, New Mexico, USA
  - "/img/IMG_7565.JPG": Seoul, South Korea
- - "/img/IMG_5481.heic": Lisbon, Portugal
+ - "/img/IMG_5481.jpg": Lisbon, Portugal
  - "/img/IMG_8464.JPG": St. John, US Virgin Islands, USA
  - "/img/IMG_20191130_151557650.jpg": Las Galeras, Dominican Republic
- - "/img/IMG_0316.HEIC": Dalton Highway, Alaska, USA
+ - "/img/IMG_0316.jpg": Dalton Highway, Alaska, USA
  - "/img/DSCN4692.JPG": Bruges, Belgium
- - "/img/IMG_4497.HEIC": Zakynthos, Greece
- - "/img/IMG_3985.heic": Chicago, Illinois, USA
+ - "/img/IMG_4497.jpg": Zakynthos, Greece
+ - "/img/IMG_3985.jpg": Chicago, Illinois, USA
  - "/img/DSCN9636.JPG": Annecy, France
 ---
 
