@@ -7,7 +7,7 @@ permalink: research/asr_adaptation
 involved: 2021 & 2024-2025
 ---
 
-Automatic speech recognition (ASR) is the process of automatically getting the textual information that the raw audio signal is carrying, thus essentially converting speech to text. With the technological advances of the last few years, and especially with the advent of deep learning, machines can achieve remarkable results for the task, especially under relatively clean conditions. Additionally, even though traditionally ASR relies on convoluted architectures involving several different modules and components,
+Automatic speech recognition (ASR) is the process of automatically getting the textual information that the raw audio signal is carrying, thus essentially converting speech to text. With the technological advances of the last few years, and especially with the advent of deep learning, machines can achieve remarkable results for the task, especially under relatively clean conditions. Additionally, even though ASR traditionally relies on convoluted architectures involving several different modules and components,
 nowadays end-to-end solutions are successfully employed.
 
 <p align="center">

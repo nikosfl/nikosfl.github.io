@@ -7,7 +7,7 @@ permalink: research/continuous_speaker_id
 involved: 2019
 ---
 
-Speaker identification is the task of determining the identity of the person uttering a particular phrase, assuming a finite set of pre-enrolled speakers is given. Applying a continuous automatic speaker identification system on recorded meetings with multiple participants is the main problem I was working on during my 2019 summer internship in Microsoft, under the supervision of Dr. Dimitrios Dimitriadis. The successful application of such a system can significantly affect the performance of several downstream applications, such as rich transcription, speaker tracking, and action item generation.
+Speaker identification is the task of determining the identity of the person uttering a particular phrase, assuming a finite set of pre-enrolled speakers is given. Applying a continuous automatic speaker identification system on recorded meetings with multiple participants is the main problem I was working on during my 2019 summer internship at Microsoft, under the supervision of Dr. Dimitrios Dimitriadis. The successful application of such a system can significantly affect the performance of several downstream applications, such as rich transcription, speaker tracking, and action item generation.
 
 <p align="center">
   <img src="/img/spk_id.png" width="550">  

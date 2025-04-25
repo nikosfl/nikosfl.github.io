@@ -7,7 +7,7 @@ permalink: research/speaker_change_detection
 involved: 2017
 ---
 
-Speaker change detection is the task of dividing a speech signal into speaker-homogeneous segments. In order to achieve this goal, the original signal is partitioned in consecutive small windows and we have to check how similar any two consecutive windows are. If they look similar enough, they are considered to belong to the same speaker. Otherwise, a speaker change point has been identified!
+Speaker change detection is the task of dividing a speech signal into speaker-homogeneous segments. In order to achieve this, the original signal is partitioned in consecutive small windows and we have to check how similar any two consecutive windows are. If they look similar enough, they are considered to belong to the same speaker. Otherwise, a speaker change point has been identified!
 
 <p align="center">
   <img src="/img/scd_eg.png" width="500">  
