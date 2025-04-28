@@ -19,7 +19,7 @@ Can we use machine learning techniques to facilitate this task? This is exactly 
 </p>
 <em><font size="-1">
 Automatic quality assessment of a psychotherapy session.  <br>
-Image from <a href="http://dx.doi.org/10.3758/s13428-021-01623-4">Flemotomos et. al., Automated evaluation of psychotherapy skills using speech and language technologies, Behavior Research Methods, 2021</a>
+Image from <a href="http://dx.doi.org/10.3758/s13428-021-01623-4">Flemotomos et. al., Automated evaluation of psychotherapy skills using speech and language technologies, Behavior Research Methods, 2022</a>
 </font></em>
 
 A robust system for the task described depends heavily on a speech pipeline which, given the raw audio signal, 
