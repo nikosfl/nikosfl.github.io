@@ -1,0 +1,8 @@
+@article{flemotomos25_taslpro_optimizing,
+  author={Flemotomos, Nikolaos and Hsiao, Roger and Swietojanski, Pawel and Hori, Takaaki and Can, Dogan and Zhuang, Xiaodan},
+  journal={IEEE Transactions on Audio, Speech, and Language Processing}, 
+  title={Optimizing contextual speech recognition using vector quantization for efficient retrieval}, 
+  year={2025},
+  pages={},
+  doi={},
+  publisher={IEEE}}
