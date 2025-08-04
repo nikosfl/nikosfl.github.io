@@ -3,6 +3,8 @@
   journal={IEEE Transactions on Audio, Speech, and Language Processing}, 
   title={Optimizing contextual speech recognition using vector quantization for efficient retrieval}, 
   year={2025},
+  volume={},
+  number={},
   pages={},
-  doi={},
+  doi={10.1109/TASLPRO.2025.3594955},
   publisher={IEEE}}
