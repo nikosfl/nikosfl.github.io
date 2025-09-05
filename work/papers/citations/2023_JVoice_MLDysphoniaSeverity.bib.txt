@@ -5,7 +5,7 @@
   year={2023},
   volume={},
   number={},
-  pages={in press},
+  pages={},
   publisher={Elsevier},
   doi={10.1016/j.jvoice.2023.06.006}
 }

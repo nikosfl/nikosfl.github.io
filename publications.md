@@ -25,7 +25,7 @@ function showOrHide(id)
 
 * __N. Flemotomos__\*, R. Hsiao\*, P. Swietojanski\*, T. Hori, D. Can & X. Zhuang.  
 "[Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval](/work/papers/2025_TASLPRO_NCB_Retrieval.pdf)"   
-*Transactions on Audio, Speech, and Language Processing*, in press   
+*Transactions on Audio, Speech, and Language Processing*, August 2025   
 \**equal contribution*   
 [![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1109/TASLPRO.2025.3594955) 
 <a href="javascript:showOrHide('cite_2025_TASLPRO_NCB_Retrieval');">![bibTeX](/img/cite_logo.png)</a> 
