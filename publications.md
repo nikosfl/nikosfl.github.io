@@ -23,6 +23,15 @@ function showOrHide(id)
 
 ### 2025 
 
+* B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
+"[A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity](/work/papers/2025_JVoice_MLDyshoniaSeverity.pdf)"  
+*Journal of Voice*, November 2025  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.jvoice.2023.06.006) 
+<a href="javascript:showOrHide('cite_2025_JVoice_MLDysphoniaSeverity');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2025_JVoice_MLDysphoniaSeverity">
+<p><iframe src="/work/papers/citations/2025_JVoice_MLDysphoniaSeverity.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div> 
+
 * __N. Flemotomos__\*, R. Hsiao\*, P. Swietojanski\*, T. Hori, D. Can & X. Zhuang.  
 "[Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval](/work/papers/2025_TASLPRO_NCB_Retrieval.pdf)"   
 *Transactions on Audio, Speech, and Language Processing*, August 2025   
@@ -34,14 +43,6 @@ function showOrHide(id)
 </div> 
 
 ### 2023
-
-<!-- * C.S. Soma, __N. Flemotomos__, S. Narayanan & Z.E. Imel.  
-"That didn't feel good: The Effects of Therapist Confrontation on Client Emotional Expression during Motivational Interviewing"  
-*under review* --> 
-
-<!-- * B. van der Woerd, Z. Chen, __N. Flemotomos__, L. Timmons-Sund, M.E. Castro, F. Farrokhyar, S. Narayanan & M.M. Johns III.  
-"A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Voice Samples"   
-*under review* --> 
     
 * C. Berkel, D. Knox, __N. Flemotomos__, V.R. Martinez, D.C. Atkins, S.S. Narayanan, L. Alonso, C.G. Gallo & J.D. Smith.  
 "[A Machine Learning Approach to Improve Implementation Monitoring of Family-Based Preventive Interventions in Primary Care](/work/papers/2023_ImplRes_MLFamilyPrimaryCare.pdf)"  
@@ -50,15 +51,6 @@ function showOrHide(id)
 <a href="javascript:showOrHide('cite_2023_ImplRes_MLFamilyPrimaryCare');">![bibTeX](/img/cite_logo.png)</a> 
 <div style="display:none" id="cite_2023_ImplRes_MLFamilyPrimaryCare">
 <p><iframe src="/work/papers/citations/2023_ImplRes_MLFamilyPrimaryCare.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-</div> 
-
-* B. van der Woerd, Z. Chen, __N. Flemotomos__, M. Oljaca, L.T. Sund, S. Narayanan & M.M. Johns III.  
-"[A Machine-Learning Algorithm for the Automated Perceptual Evaluation of Dysphonia Severity](/work/papers/2023_JVoice_MLDyshoniaSeverity.pdf)"  
-*Journal of Voice*, July 2023  
-[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1016/j.jvoice.2023.06.006) 
-<a href="javascript:showOrHide('cite_2023_JVoice_MLDysphoniaSeverity');">![bibTeX](/img/cite_logo.png)</a> 
-<div style="display:none" id="cite_2023_JVoice_MLDysphoniaSeverity">
-<p><iframe src="/work/papers/citations/2023_JVoice_MLDysphoniaSeverity.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
 </div> 
 
 * C.S. Soma, B.E. Wampold, __N. Flemotomos__, R. Peri, S. Narayanan, D.C. Atkins & Z.E. Imel.   
