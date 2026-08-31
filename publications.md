@@ -40,7 +40,7 @@ function showOrHide(id)
     <a href="javascript:showOrHide('cite_2025_TASLPRO_NCB_Retrieval');">![bibTeX](/img/cite_logo.png)</a> 
     <div style="display:none" id="cite_2025_TASLPRO_NCB_Retrieval">
     <p><iframe src="/work/papers/citations/2025_TASLPRO_NCB_Retrieval.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
-    </div>  
+    </div> 
     Also presented as a poster at  
     *IEEE Workshop on Spoken Language Technology (SLT)*, Macao, China, December 2024  
 
