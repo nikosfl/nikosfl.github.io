@@ -33,14 +33,16 @@ function showOrHide(id)
 </div> 
 
 * __N. Flemotomos__\*, R. Hsiao\*, P. Swietojanski\*, T. Hori, D. Can & X. Zhuang.  
-    "[Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval](/work/papers/2025_TASLPRO_NCB_Retrieval.pdf)"   
-    *Transactions on Audio, Speech, and Language Processing*, August 2025   
-    \**equal contribution*   
-    [![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1109/TASLPRO.2025.3594955) 
-    <a href="javascript:showOrHide('cite_2025_TASLPRO_NCB_Retrieval');">![bibTeX](/img/cite_logo.png)</a> 
-    <div style="display:none" id="cite_2025_TASLPRO_NCB_Retrieval"><iframe src="/work/papers/citations/2025_TASLPRO_NCB_Retrieval.bib.txt" frameborder="0" height="100"  width="90%"></iframe></div> 
-    Also presented as a poster at  
-    *IEEE Workshop on Spoken Language Technology (SLT)*, Macao, China, December 2024  
+"[Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval](/work/papers/2025_TASLPRO_NCB_Retrieval.pdf)"   
+*Transactions on Audio, Speech, and Language Processing*, August 2025   
+\**equal contribution*   
+Also presented at  
+*IEEE Workshop on Spoken Language Technology (SLT)*, Macao, China, December 2024  
+[![DOI](/img/doi_logo_bw.png)](https://dx.doi.org/10.1109/TASLPRO.2025.3594955) 
+<a href="javascript:showOrHide('cite_2025_TASLPRO_NCB_Retrieval');">![bibTeX](/img/cite_logo.png)</a> 
+<div style="display:none" id="cite_2025_TASLPRO_NCB_Retrieval">
+<p><iframe src="/work/papers/citations/2025_TASLPRO_NCB_Retrieval.bib.txt" frameborder="0" height="100"  width="90%"></iframe></p>
+</div> 
 
 ### 2023
     
